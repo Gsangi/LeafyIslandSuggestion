@@ -9,8 +9,9 @@ function clicklistner(e) {
   arr.push(e.target.dataset.ans);
   console.log(arr);
   if(count === 6){
-    document.getElementById("h1").remove()
+    heading.remove()
     document.getElementById("logo").remove()
+    image.remove()
   }
 }   
 
@@ -81,7 +82,7 @@ function buttons() {
       image.src = "./img/snake-plant-white-pot-min.jpg"
   }else if(count === 3){
       heading.innerHTML = Object.keys(object3)[0];
-      image.src = "./img/plant-pot-table-close-up.jpg"
+      image.src = "./img/pexels-ylanite-koppens-776656.jpg"
   }else if(count === 4){
      heading.innerHTML = Object.keys(object4)[0];
      image.src = "./img/green-houseplant-glass-jar.jpg"
