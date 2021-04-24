@@ -84,7 +84,7 @@ function buttons() {
       image.src = "./img/plant-pot-table-close-up.jpg"
   }else if(count === 4){
      heading.innerHTML = Object.keys(object4)[0];
-     image.src = "./img/mockup-wall-with-plants-shelf.jpg"
+     image.src = "./img/green-houseplant-glass-jar.jpg"
   }
     let button = document.createElement("button");
     button.classList.add("btn");
