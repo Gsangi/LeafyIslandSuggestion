@@ -74,11 +74,11 @@ function buttons() {
     }
    else if (count === 1) {
    heading.innerHTML = Object.keys(object1)[0];
-   image.src = "./img/pepper-face-plant-small-pot.jpg"
+   image.src = "./img/pepper-face-plant-small-pot-min.jpg"
    
   }else if(count === 2){
       heading.innerHTML = Object.keys(object2)[0];
-      image.src = "./img/snake-plant-white-pot.jpg"
+      image.src = "./img/snake-plant-white-pot-min.jpg"
   }else if(count === 3){
       heading.innerHTML = Object.keys(object3)[0];
       image.src = "./img/plant-pot-table-close-up.jpg"
