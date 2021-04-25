@@ -1,18 +1,20 @@
 let arr = [];
 
 function clicklistner(e) {
-  while (div.firstChild) {
-    div.removeChild(div.lastChild);
-  }
-  console.log(e.target.dataset.ans);
-  buttons(e.target.dataset.ans);
-  arr.push(e.target.dataset.ans);
-  console.log(arr);
-  if(count === 6){
-    document.getElementById("h1").remove()
-    document.getElementById("logo").remove()
-    image.remove()
-  }
+    while (div.firstChild) {
+      div.removeChild(div.lastChild);
+    }
+    console.log(e.target.dataset.ans);
+    buttons(e.target.dataset.ans);
+    arr.push(e.target.dataset.ans);
+    console.log(arr);
+    if(count === 6){
+      document.getElementById("h1").remove()
+      document.getElementById("logo").remove()
+      image.remove()
+      document.getElementById("row").remove()
+      secondpage.style.display = "block"
+    }
 }   
 
 var object = {
@@ -61,10 +63,11 @@ var object2 = {
     },
   };
 let count = 0;
-
+let secondpage = document.getElementById("secondpage")
 let div = document.getElementById("root");
 let heading =  document.getElementById("h1");
 let image = document.getElementById("myimg")
+secondpage.style.display = "none"
 let n = [object[Object.keys(object)[0]], object1[Object.keys(object1)[0]], object2[Object.keys(object2)[0]],object3[Object.keys(object3)[0]], object4[Object.keys(object4)[0]]];
 function buttons() {
   
@@ -75,8 +78,7 @@ function buttons() {
     }
    else if (count === 1) {
    heading.innerHTML = Object.keys(object1)[0];
-   image.src = "./img/pepper-face-plant-small-pot-min.jpg"
-   
+   image.src = "./img/pepper-face-plant-small-pot-min.jpg"   
   }else if(count === 2){
       heading.innerHTML = Object.keys(object2)[0];
       image.src = "./img/snake-plant-white-pot-min.jpg"
@@ -89,7 +91,7 @@ function buttons() {
   }
     let button = document.createElement("button");
     button.classList.add("btn");
-    button.classList.add("btn-dark");
+    button.classList.add("btn-dark"); 
     button.innerHTML = que;
     button.dataset.ans = que;
     button.onclick = clicklistner;
