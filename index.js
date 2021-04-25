@@ -10,7 +10,6 @@ function clicklistner(e) {
     console.log(arr);
     if(count === 6){
       document.getElementById("h1").remove()
-      document.getElementById("logo").remove()
       image.remove()
       document.getElementById("row").remove()
       secondpage.style.display = "block"
@@ -104,3 +103,8 @@ function buttons() {
 }
 buttons();
 
+document.getElementById("exampleModal").style.display = "none"
+
+document.getElementById("submitButton").onclick = something
+
+let something = document.getElementById("exampleModal").style.display = "block"
