@@ -31,17 +31,17 @@
   object-fit: cover;
 }
 
-.white-background{
-  background: rgba(255, 255, 255, 0.81);
-  border-radius: 10px;
-  padding: 30px;
-    margin: 70px;
-}
-
 /* Media Queries */
 @media only screen and (max-width: 768px) {
   .first-section {
     position: absolute;
     z-index: 10;
+  }
+
+  .white-background{
+    background: rgba(255, 255, 255, 0.81);
+    border-radius: 10px;
+    padding: 30px;
+    margin: 20px;
   }
 }
