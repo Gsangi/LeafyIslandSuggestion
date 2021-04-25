@@ -85,7 +85,7 @@ function buttons() {
       image.src = "./img/pexels-ylanite-koppens-776656.jpg"
   }else if(count === 4){
      heading.innerHTML = Object.keys(object4)[0];
-     image.src = "./img/green-houseplant-glass-jar-min (1).jpg"
+     image.src = "img/green-houseplant-glass-jar-min (1).jpg"
   }
     let button = document.createElement("button");
     button.classList.add("btn");
