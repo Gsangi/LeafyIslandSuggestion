@@ -71,7 +71,7 @@ function buttons() {
   for (let que in n[count]) {
     if(count === 0){
       heading.innerHTML = Object.keys(object)[0];
-      image.src = "./img/pexels-andreea-ch-1166642.jpg"
+      image.src = "./img/pexels-ylanite-koppens-796620.jpg"
     }
    else if (count === 1) {
    heading.innerHTML = Object.keys(object1)[0];
