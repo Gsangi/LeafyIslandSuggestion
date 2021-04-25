@@ -9,9 +9,8 @@ function clicklistner(e) {
   arr.push(e.target.dataset.ans);
   console.log(arr);
   if(count === 6){
-    heading.remove()
+    document.getElementById("h1").remove()
     document.getElementById("logo").remove()
-    image.remove()
   }
 }   
 
@@ -71,7 +70,7 @@ function buttons() {
   for (let que in n[count]) {
     if(count === 0){
       heading.innerHTML = Object.keys(object)[0];
-      image.src = "./img/interior-poster-mock-up-with-plant-pot-flower-room-with-white-wall.jpg"
+      image.src = "./img/pexels-andreea-ch-1166642.jpg"
     }
    else if (count === 1) {
    heading.innerHTML = Object.keys(object1)[0];
@@ -79,13 +78,13 @@ function buttons() {
    
   }else if(count === 2){
       heading.innerHTML = Object.keys(object2)[0];
-      image.src = "./img/snake-plant-white-pot-min.jpg"
+      image.src = "./img/snake-plant-white-pot.jpg"
   }else if(count === 3){
       heading.innerHTML = Object.keys(object3)[0];
-      image.src = "./img/pexels-ylanite-koppens-776656.jpg"
+      image.src = "./img/plant-pot-table-close-up.jpg"
   }else if(count === 4){
      heading.innerHTML = Object.keys(object4)[0];
-     image.src = "img/green-houseplant-glass-jar-min (1).jpg"
+     image.src = "./img/mockup-wall-with-plants-shelf.jpg"
   }
     let button = document.createElement("button");
     button.classList.add("btn");
