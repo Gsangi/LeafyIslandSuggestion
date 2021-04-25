@@ -11,6 +11,7 @@ function clicklistner(e) {
   if(count === 6){
     document.getElementById("h1").remove()
     document.getElementById("logo").remove()
+    image.remove()
   }
 }   
 
@@ -78,13 +79,13 @@ function buttons() {
    
   }else if(count === 2){
       heading.innerHTML = Object.keys(object2)[0];
-      image.src = "./img/snake-plant-white-pot.jpg"
+      image.src = "./img/snake-plant-white-pot-min.jpg"
   }else if(count === 3){
       heading.innerHTML = Object.keys(object3)[0];
-      image.src = "./img/plant-pot-table-close-up.jpg"
+      image.src = "./img/pexels-ylanite-koppens-776656.jpg"
   }else if(count === 4){
      heading.innerHTML = Object.keys(object4)[0];
-     image.src = "./img/mockup-wall-with-plants-shelf.jpg"
+     image.src = "./img/green-houseplant-glass-jar-min (1).jpg"
   }
     let button = document.createElement("button");
     button.classList.add("btn");
