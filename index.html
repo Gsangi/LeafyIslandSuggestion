@@ -26,7 +26,7 @@
       <div class="col-12 col-md-6 order-md-first first-section">
         <div class="white-background" id="white-background">
           <!-- <img src="img/logo__1_.png" id="logo" class="logo" /> -->
-          <h3 class="question" id="h1"></h3>
+          <h3 class="question slide-right" id="h1"></h3>
           <div id="root" class="d-grid gap-2 col-12 col-sm-6 mx-auto"></div>
         </div>
       </div>
@@ -70,7 +70,6 @@
 
     <div class="body" id="secondpage">
       <div class="content">
-        <form>
           <div class="row">
             <div class="col-10 col-sm-8 mx-auto form-group">
               <h4>Leafy Island</h4>
@@ -79,7 +78,8 @@
                 Enter your email address to get matched, and receive plant care
                 tips, curated recommendations, and more.
               </p>
-              <input
+              <form action="" onsubmit="return false">
+                <input
                 type="email"
                 class="form-control"
                 id="exampleInputEmail1"
@@ -94,8 +94,9 @@
             <div class="d-grid gap-2 col-10 col-sm-6 mx-auto mt-4">
               <button type="submit" class="btn btn-dark" id="submitButton" data-bs-toggle="modal" data-bs-target="#exampleModal">Submit</button>
             </div>
+              </form>
+             
           </div>
-        </form>
       </div>
     </div>
 
@@ -104,37 +105,88 @@
       <div class="modal-dialog modal-xl modal-fullscreen-sm-down">
           <div class="modal-content">
               <div class="modal-header">
-                  <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                  <h5 class="modal-title" id="exampleModalLabel">Our Plant Buddy suggest you some of his favourite</h5>
                   <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
               </div>
               <div class="modal-body">
-                  <div class="card" style="width: 18rem;">
-                      <img src="..." class="card-img-top" alt="...">
+                  <!-- <div class="card" style="width: 18rem;">
+                      <img src="./img/ezgif.com-gif-maker.jpg" class="card-img-top" alt="...">
+                      <div class="card-body">
+                          <h5 class="card-title">Pink something</h5>
+                          <p class="card-text">Some quick example text to build on the card title and make up the bulk of
+                              the card's content.</p>
+                          <a href="#" class="btn btn-primary">Go somewhere</a>
+                      </div>
+                  </div> -->
+                  <div class="card-group">
+                    <div class="card">
+                      <img id="modalimg-1" src="" class="card-img-top" alt="...">
+                      <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        
+                      </div>
+                    </div>
+                    <div class="card">
+                      <img id="modalimg-2" src="" class="card-img-top" alt="...">
+                      <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                        
+                      </div>
+                    </div>
+                    <div class="card">
+                      <img id="modalimg-3" src="" class="card-img-top" alt="...">
+                      <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                        
+                      </div>
+                    </div>
+                    <div class="card">
+                      <img id="modalimg-4" src="" class="card-img-top" alt="...">
+                      <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                        
+                      </div>
+                    </div>
+                    <div class="card">
+                      <img id="modalimg-5" src="" class="card-img-top" alt="...">
+                      <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                        
+                      </div>
+                    </div>
+                  </div>
+  
+              </div>
+              <!-- <div class="modal-body"> -->
+                  <!-- <div class="card" style="width: 18rem;">
+                      <img src="./img/ezgif.com-gif-maker.jpg" class="card-img-top" alt="...">
                       <div class="card-body">
                           <h5 class="card-title">Card title</h5>
                           <p class="card-text">Some quick example text to build on the card title and make up the bulk of
                               the card's content.</p>
                           <a href="#" class="btn btn-primary">Go somewhere</a>
                       </div>
-                  </div>
+                  </div> -->
   
-              </div>
-              <div class="modal-body">
-                  <div class="card" style="width: 18rem;">
-                      <img src="..." class="card-img-top" alt="...">
-                      <div class="card-body">
-                          <h5 class="card-title">Card title</h5>
-                          <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                              the card's content.</p>
-                          <a href="#" class="btn btn-primary">Go somewhere</a>
-                      </div>
-                  </div>
-  
-              </div>
-              <div class="modal-footer">
-                  <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                  <button type="button" class="btn btn-primary">Save changes</button>
-              </div>
+              <!-- </div> -->
+              <!-- <div class="modal-body">
+                <div class="card" style="width: 18rem;">
+                    <img src="./img/ezgif.com-gif-maker.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
+                            the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+
+            </div> -->
+            
           </div>
       </div>
   </div>
