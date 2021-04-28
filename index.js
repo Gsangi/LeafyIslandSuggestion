@@ -10480,26 +10480,380 @@ let Answers = [
 
 var Plants = [
   {
-    Q1: "Areca Palm",
-    Q2: "",
-    Q3: "Something green green",
-    Q4:
+    plantName: "Areca Palm",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set20_Page_17_1024x1024@2x.jpg?v=1612899817",
+    AboutPlant: "Something green green",
+    Shopifylink:
       "https://leafyisland.com/products/areca-palm-dypsis-lutescens?_pos=1&_psq=areca%20&_ss=e&_v=1.0",
   },
   {
-    Q1: "Dracaena Fragrans",
-    Q2: "",
-    Q3: "Something green green",
-    Q4:
-      "https://leafyisland.com/products/areca-palm-dypsis-lutescens?_pos=1&_psq=areca%20&_ss=e&_v=1.0",
-  },
-  {
-    Q1: "Table Palm",
-    Q2: "",
-    Q3:
-      "Belonging to Family Arecaceae, part of the Table Palm plant's seemingly endless popularity is owed to its interior-friendly size, which can be as small as a few inches or as tall as a few feet. The fact that it's not too picky about where it grows and requires only a little regular care surely doesn't hurt the tabletop palm's enduring legacy, either. It is a very low maintenance plant and is generally seen decorating a lot of corner spaces in offices and homes as décor plant since it can survive partial to full shade.",
-    Q4:
+    plantName: "Table Palm",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/TablePalm_1_1024x1024@2x.jpg?v=1612699695",
+    AboutPlant: "",
+    Shopifylink:
       "https://leafyisland.com/products/table-palm-umbrella-palm-livistona-rotundifolia?_pos=1&_psq=table%20pal%2C&_ss=e&_v=1.0",
+  },
+  {
+    plantName: "Succulents",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/GardenTheme_1024x1024@2x.jpg?v=1612811997",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/3-succulents-set-plants-for-gifting-garden-theme?_pos=1&_sid=ca8412719&_ss=r",
+  },
+  {
+    plantName: "Water Bamboo",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set27_Page_1_720x.jpg?v=1618570542",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/dracaena-braunii-water-bamboo?_pos=1&_sid=35acf0bc1&_ss=r",
+  },
+  {
+    plantName: "Ruffled Fan Palm",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/1_1024x1024@2x.jpg?v=1612537685",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/ruffled-fan-palm-licuala-grandis-pichodia-grandis?_pos=1&_sid=278bd1ece&_ss=r",
+  },
+  {
+    plantName: "Spider Plant",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/Untitled-11_Page_6_720x.jpg?v=1612852296",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/spider-plant-chlorophytum-comosum-1?_pos=2&_sid=4d9356a22&_ss=r",
+  },
+  {
+    plantName: "Ferns",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/setno22_Page_10_1024x1024@2x.jpg?v=1614230001",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/asparagus-fern?_pos=1&_sid=4d76e9cd1&_ss=r",
+  },
+  {
+    plantName: "Maranta",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set20_Page_01_1_720x.jpg?v=1612811134",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/maranta-leuconeura-prayer-plant?_pos=1&_sid=c4c3e039d&_ss=r",
+  },
+  {
+    plantName: "Hypoestes",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set20_Page_10_720x.jpg?v=1612811344",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/polka-dot-plant-hypoestes-phyllostachya-pink-plant?_pos=1&_sid=4966d97c7&_ss=r",
+  },
+  {
+    plantName: "Rhapis Lady Palm",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/RhapisPalmPlant_1024x1024@2x.jpg?v=1612549329",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/rhapis?_pos=1&_sid=2eea2d9ac&_ss=r",
+  },
+  {
+    plantName: "Succulent Bush",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/Untitled-1_Page_17_720x.jpg?v=1612864006",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/succulent-bush-in-a-woven-basket?_pos=1&_sid=ffeaa8e5d&_ss=r",
+  },
+  {
+    plantName: "Carpet Sedum",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/CarpetSedum_5_1024x1024@2x.jpg?v=1612695752",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/carpet-sedum-sedum-angelina-green-succulent?_pos=1&_sid=5d6dff32c&_ss=r",
+  },
+  {
+    plantName: "Japanese Spindletree",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set27_Page_8_720x.jpg?v=1618229683",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/japanese-spindletree-euonymus-japonicus-plant?_pos=1&_sid=3ff055867&_ss=r",
+  },
+  {
+    plantName: "Aloe Vera",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set20_Page_18_720x.jpg?v=1612899785",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/aloe-vera-succulent-plant?_pos=3&_sid=137c62e3c&_ss=r",
+  },
+  {
+    plantName: "Aglaonema",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/Untitled-1_Page_28_1024x1024@2x.jpg?v=1612865571",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/aglaonema-siam-aurora-aglaonema-lipstick?_pos=1&_sid=143e6bc56&_ss=r",
+  },
+  {
+    plantName: "Snake Plant",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/Untitled-9_Page_02_720x.jpg?v=1612851529",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/snake-plant-laurentii-in-basket-planter?_pos=1&_sid=1af68db33&_ss=r",
+  },
+  {
+    plantName: "ZZ Plant",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/ZZPlant_720x.jpg?v=1612700573",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/zz-plant-zamioculcas-zamiifolia-plant?_pos=1&_sid=bef204b57&_ss=r",
+  },
+  {
+    plantName: "Anthurium",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/AnthuriuminWovenBaskt_1024x1024@2x.jpg?v=1612695693",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/anthurium-in-a-woven-basket?_pos=1&_sid=c4a798c3f&_ss=r",
+  },
+  {
+    plantName: "Philodendrons",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/Untitled-1_Page_05_1024x1024@2x.jpg?v=1612863290",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/blushing-philodendron-philodendron-red?_pos=1&_sid=33b80f042&_ss=r",
+  },
+  {
+    plantName: "Monstera",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/MonsteraAdansonii_1024x1024@2x.jpg?v=1612698940",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/monstera-adansonii-swiss-cheese-plant-split-leaf-philodendron-plant?_pos=2&_sid=985f31c76&_ss=r",
+  },
+  {
+    plantName: "Fiddle Leaf Fig",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set24_Page_1_1024x1024@2x.jpg?v=1615381559",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/mini-fiddle-leaf-fig-plant-ficus-lyrata?_pos=1&_sid=6d5885a81&_ss=r",
+  },
+  {
+    plantName: "Syngonium",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/websiteplant5_Page_12_1024x1024@2x.jpg?v=1612700320",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/syngonium-mini-pixie-syngonium-podophyllum?_pos=1&_sid=4178bdc65&_ss=r",
+  },
+  {
+    plantName: "Money Plant",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set20_Page_06_1024x1024@2x.jpg?v=1612900185",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/money-plant-marble-in-woven-vase?_pos=4&_psq=Money%20Plant&_ss=e&_v=1.0",
+  },
+  {
+    plantName: "Impatiens",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/Impatiens_6b4177fd-2797-413b-ad06-ca1415055345_1024x1024@2x.jpg?v=1618237914",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/impatiens-walleriana-in-railing-pots?_pos=1&_sid=fc79bcbe3&_ss=r",
+  },
+  {
+    plantName: "Herbs",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/Rosemary-Tulsi-Lemongrass_1024x1024@2x.jpg?v=1612699829",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/rosemary-tulsi-lemongrass-mini-herb-tea-set?_pos=1&_sid=8554df2cd&_ss=r",
+  },
+  {
+    plantName: "Mini Tree Fern",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/Miniaturefern_1024x1024@2x.jpg?v=1612698737",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/miniature-tree-fern-oceaniopteris-gibba?_pos=1&_sid=80dbf1251&_ss=r",
+  },
+  {
+    plantName: "Gerbera",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/Gerbera_1024x1024@2x.jpg?v=1612850497",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/gerbera-plant?_pos=1&_sid=6587a1ec1&_ss=r",
+  },
+  {
+    plantName: "Petunia",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/Untitled-6_Page_10_1024x1024@2x.jpg?v=1612811919",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/petunia-plant-1?_pos=1&_sid=46ee4d64e&_ss=r",
+  },
+  {
+    plantName: "Chrysanthemum",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/Chrysanthemum_15dcb942-f1b8-4dbf-8f16-619221d9c8a9_1024x1024@2x.jpg?v=1618237884",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/chrysanthemum-in-railing-pot?_pos=1&_sid=90c4e2b41&_ss=r",
+  },
+  {
+    plantName: "Flowering Plants",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/ParijatPlant_1024x1024@2x.jpg?v=1612699037",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/parijat-parijatak-shiuli-night-flowering-jasmine-plant?_pos=1&_sid=c576350bf&_ss=r",
+  },
+  {
+    plantName: "Crotons",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/webisteplants1_Page_21_1024x1024@2x.jpg?v=1612696192",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/croton-petra-plant-codiaeum-variegatum?_pos=1&_sid=f98147471&_ss=r",
+  },
+  {
+    plantName: "Rubber Plant",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/RubberPlant_720x.jpg?v=1612697847",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/rubber-plant-rubber-tree-ficus-elastica-plant?_pos=1&_sid=eca4acaeb&_ss=r",
+  },
+  {
+    plantName: "Jade",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set26_Page_21_1024x1024@2x.jpg?v=1617524475",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/jade-plant-in-hanging-basket?_pos=1&_sid=a656ef62a&_ss=r",
+  },
+  {
+    plantName: "Dieffenbachia",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/DieffenbachiaTropicSnow_720x.jpg?v=1612695395",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/dieffenbachia-tropic-snow?_pos=1&_sid=9f510a6a9&_ss=r",
+  },
+  {
+    plantName: "English Ivy",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/EnglishIvy_1024x1024@2x.jpg?v=1612694940",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/english-ivy-common-ivy?_pos=1&_sid=4718b7a71&_ss=r",
+  },
+  {
+    plantName: "Calathea",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/setno22_Page_04_720x.jpg?v=1614176271",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/calathea-plant?_pos=1&_sid=ba675943d&_ss=r",
+  },
+  {
+    plantName: "Dracaena",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set28_Page_14_1024x1024@2x.jpg?v=1618483516",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/dracaena-fragrans?_pos=1&_sid=31d11d10d&_ss=r",
+  },
+  {
+    plantName: "Song of India",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/SongofIndia_1024x1024@2x.jpg?v=1612700542",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/song-of-india-dracaena-reflexa-pleomela?_pos=1&_sid=fdde53a67&_ss=r",
+  },
+  {
+    plantName: "Pink Anthurium",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set28_Page_13_720x.jpg?v=1618485135",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/pink-anthurium-plant-in-woven-vase-planter?_pos=1&_sid=6f9ba1686&_ss=r",
+  },
+  {
+    plantName: "String of Pearls",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set27_Page_6_1024x1024@2x.jpg?v=1618239772",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/string-of-pearls-in-5-inch-square-pot?_pos=1&_sid=fc03700ca&_ss=r",
+  },
+  {
+    plantName: "Raindrop Peperomia",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/new_Page_2_1024x1024@2x.jpg?v=1618819650",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/raindrop-peperomia-peperomia-polybotrya-plant?_pos=1&_sid=2b0f0c20e&_ss=r",
+  },
+  {
+    plantName: "Wandering Jew",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set26_Page_16_720x.jpg?v=1617561245",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/wandering-jew-in-hanging-basket?_pos=1&_sid=ec3479a9e&_ss=r",
+  },
+  {
+    plantName: "Dracaena Fragrans",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set28_Page_14_1024x1024@2x.jpg?v=1618483516",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/dracaena-fragrans?_pos=1&_sid=37599b268&_ss=r",
+  },
+  {
+    plantName: "Boston Fern",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/Untitled-1_Page_14_1_1024x1024@2x.jpg?v=1617776159",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/boston-fern-in-hanging-basket?_pos=1&_sid=6be40fdb3&_ss=r",
+  },
+  {
+    plantName: "Ribbonbush Plant",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set28_Page_08_720x.jpg?v=1618489591",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/ribbonbush-plant-muehlenbeckia-platyclada-plant?_pos=1&_sid=2d3cb7c84&_ss=r",
+  },
+  {
+    plantName: "Coleus",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/ColeusMaroon_1024x1024@2x.jpg?v=1612852021",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/coleus-maroon-plant?_pos=1&_sid=879eb6d02&_ss=r",
+  },
+  {
+    plantName: "Ficus",
+    Imgsrc:
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/Ficusstarlight_1024x1024@2x.jpg?v=1612694271",
+    AboutPlant: "",
+    Shopifylink:
+      "https://leafyisland.com/products/ficus-starlight?_pos=1&_sid=da2afced0&_ss=r",
   },
 ];
 
@@ -10583,11 +10937,31 @@ function clicklistner(e) {
       newArray.P4,
       newArray.P5
     );
-    let PlantsRec = Plants.find((element) => element.Q1 === newArray.P1);
-    document.getElementById("card-title-1").innerHTML = PlantsRec.Q1
-    // document.getElementById("card-text-1").innerHTML = PlantsRec.Q3
-    document.getElementById("shopify-link-1").href = PlantsRec.Q4;
-   
+    let PlantsRec = Plants.find((element) => element.plantName === newArray.P1);
+    document.getElementById("modalimg-1").src = PlantsRec.Imgsrc
+    document.getElementById("card-title-1").innerHTML = PlantsRec.plantName
+    document.getElementById("card-text-1").innerHTML = PlantsRec.AboutPlant
+    document.getElementById("shopify-link-1").href = PlantsRec.Shopifylink
+    let PlantsRec_1 = Plants.find((element) => element.plantName === newArray.P2);
+    document.getElementById("modalimg-2").src = PlantsRec_1.Imgsrc
+    document.getElementById("card-title-2").innerHTML = PlantsRec_1.plantName
+    document.getElementById("card-text-2").innerHTML = PlantsRec_1.AboutPlant
+    document.getElementById("shopify-link-2").href = PlantsRec_1.Shopifylink
+    let PlantsRec_2 = Plants.find((element) => element.plantName === newArray.P3);
+    document.getElementById("modalimg-3").src = PlantsRec_2.Imgsrc
+    document.getElementById("card-title-3").innerHTML = PlantsRec_2.plantName
+    document.getElementById("card-text-3").innerHTML = PlantsRec_2.AboutPlant
+    document.getElementById("shopify-link-3").href = PlantsRec_2.Shopifylink
+    let PlantsRec_3 = Plants.find((element) => element.plantName === newArray.P4);
+    document.getElementById("modalimg-4").src = PlantsRec_3.Imgsrc
+    document.getElementById("card-title-4").innerHTML = PlantsRec_3.plantName
+    document.getElementById("card-text-4").innerHTML = PlantsRec_3.AboutPlant
+    document.getElementById("shopify-link-4").href = PlantsRec_3.Shopifylink
+    let PlantsRec_4 = Plants.find((element) => element.plantName === newArray.P5);
+    document.getElementById("modalimg-5").src = PlantsRec_4.Imgsrc
+    document.getElementById("card-title-5").innerHTML = PlantsRec_4.plantName
+    document.getElementById("card-text-5").innerHTML = PlantsRec_4.AboutPlant
+    document.getElementById("shopify-link-5").href = PlantsRec_4.Shopifylink
   }
 }
 
