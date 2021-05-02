@@ -99,3 +99,22 @@
     display: flex;
     justify-content: center;
 }
+
+
+.card{
+  margin: 0.35rem;
+}
+
+.card-body{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card-title{
+  text-align: center;
+}
+
+.modal-title{
+  font-family: calibri, sans-serif;
+}
