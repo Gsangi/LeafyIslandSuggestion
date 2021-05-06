@@ -10967,6 +10967,7 @@ var object4 = {
 };
 
 let arr = [];
+let recomPlants = [];
 
 function clicklistner(e) {
   while (div.firstChild) {
@@ -11025,6 +11026,11 @@ function clicklistner(e) {
     document.getElementById("shopify-link-5").href = PlantsRec_4.Shopifylink;
     console.log("Model Data: ");
     console.log(PlantsRec, PlantsRec_1, PlantsRec_2, PlantsRec_3, PlantsRec_4);
+    recomPlants.push(PlantsRec);
+    recomPlants.push(PlantsRec_1);
+    recomPlants.push(PlantsRec_2);
+    recomPlants.push(PlantsRec_3);
+    recomPlants.push(PlantsRec_4);
   }
 }
 
@@ -11081,9 +11087,11 @@ if (count === 6) {
   document.getElementById("exampleModal").style.display = "none";
   let something = (document.getElementById("exampleModal").style.display =
     "block");
-
+  let message = (document.getElementById("wp-form").onsubmit = "true");
   document.getElementById("submitButton").onclick = something;
   document.getElementById("submitButton").onclick = EmailValidation();
+  document.getElementById("submitButton").onclick = message;
+  document.getElementById("submitButton").onclick = sendPhoneNumber();
 }
 
 function EmailValidation() {
@@ -11092,4 +11100,22 @@ function EmailValidation() {
   } else {
     document.getElementById("submitButton").disabled = false;
   }
+}
+
+function sendPhoneNumber(form) {
+  console.log();
+  axios({
+    method: "POST",
+    url: "http://localhost:8080/recommendation",
+    data: {
+      phone: document.getElementById("exampleInputEmail1").value,
+      recomendation: recomPlants,
+    },
+  })
+    .then((res) => {
+      console.log("Axios", res);
+    })
+    .catch((e) => {
+      console.log(e);
+    });
 }
