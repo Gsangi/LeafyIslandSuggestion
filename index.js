@@ -10957,10 +10957,8 @@ function clicklistner(e) {
   while (div.firstChild) {
     div.removeChild(div.lastChild);
   }
-  console.log(e.target.dataset.ans);
   buttons(e.target.dataset.ans);
   arr.push(e.target.dataset.ans);
-  console.log(arr);
 
   if (count === 6) {
     document.getElementById("h1").remove();
@@ -10975,8 +10973,6 @@ function clicklistner(e) {
         element.Q4 === arr[3] &&
         element.Q5 === arr[4]
     );
-    console.log(arr[0]);
-    console.log(newArray);
     let PlantsRec = Plants.find((element) => element.plantName === newArray.P1);
     document.getElementById("modalimg-1").src = PlantsRec.Imgsrc;
     document.getElementById("card-title-1").innerHTML = PlantsRec.plantName;
@@ -10992,7 +10988,6 @@ function clicklistner(e) {
         element.plantName.toLowerCase().replace(/ /g, "") ===
         newArray.P3.toLowerCase().replace(/ /g, "")
     );
-    console.log(PlantsRec_2);
     document.getElementById("modalimg-3").src = PlantsRec_2.Imgsrc;
     document.getElementById("card-title-3").innerHTML = PlantsRec_2.plantName;
     document.getElementById("shopify-link-3").href = PlantsRec_2.Shopifylink;
@@ -11008,8 +11003,6 @@ function clicklistner(e) {
     document.getElementById("modalimg-5").src = PlantsRec_4.Imgsrc;
     document.getElementById("card-title-5").innerHTML = PlantsRec_4.plantName;
     document.getElementById("shopify-link-5").href = PlantsRec_4.Shopifylink;
-    console.log("Model Data: ");
-    console.log(PlantsRec, PlantsRec_1, PlantsRec_2, PlantsRec_3, PlantsRec_4);
     recomPlants.push(PlantsRec);
     recomPlants.push(PlantsRec_1);
     recomPlants.push(PlantsRec_2);
@@ -11095,9 +11088,6 @@ function sendPhoneNumber(form) {
       recommendation: recomPlants,
     },
   })
-    .then((res) => {
-      console.log("Axios", res);
-    })
     .catch((e) => {
       console.log(e);
     });
