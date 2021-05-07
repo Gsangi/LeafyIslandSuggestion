@@ -11089,7 +11089,7 @@ function EmailValidation() {
 function sendPhoneNumber(form) {
   axios({
     method: "POST",
-    url: "http://leafy.ap-south-1.elasticbeanstalk.com/recommendation",
+    url: "https://fr4fex3bvj.execute-api.ap-south-1.amazonaws.com/prod/recommendation",
     data: {
       phone: document.getElementById("exampleInputEmail1").value,
       recommendation: recomPlants,
