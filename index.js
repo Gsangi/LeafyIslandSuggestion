@@ -286,7 +286,7 @@ let Answers = [
     P2: "Impatiens",
     P3: "Boston Fern",
     P4: "Snake Plant",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Living Room",
@@ -610,7 +610,7 @@ let Answers = [
     P2: "Hypoestes",
     P3: "Rhapis lady Palm",
     P4: "Table Palm",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Living Room",
@@ -633,7 +633,7 @@ let Answers = [
     P1: "Aglaonema Siam Aurora",
     P2: "Dieffenbachia Tropic Snow",
     P3: "Money Plant",
-    P4: "Syngonium",
+    P4: "Syngonium Podophyllum",
     P5: "Table Palm",
   },
   {
@@ -644,9 +644,9 @@ let Answers = [
     Q5: "No",
     P1: "Snake Plant",
     P2: "Hypoestes",
-    P3: "Aglaonema",
-    P4: "Dieffenbachia",
-    P5: "Syngonium",
+    P3: "Aglaonema Siam Aurora",
+    P4: "Dieffenbachia Tropic Snow",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Living Room",
@@ -658,7 +658,7 @@ let Answers = [
     P2: "Money Plant",
     P3: "Dieffenbachia Tropic Snow",
     P4: "English Ivy",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Living Room",
@@ -862,7 +862,7 @@ let Answers = [
     P2: "ZZ Plant",
     P3: "Aglaonema Silver Queen",
     P4: "Dieffenbachia Tropic Snow",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Living Room",
@@ -874,7 +874,7 @@ let Answers = [
     P2: "Money Plant",
     P3: "Dieffenbachia Tropic Snow",
     P4: "English Ivy",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Living Room",
@@ -934,7 +934,7 @@ let Answers = [
     P2: "Hypoestes",
     P3: "Rhapis lady Palm",
     P4: "Table Palm",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Living Room",
@@ -1450,7 +1450,7 @@ let Answers = [
     P2: "Impatiens",
     P3: "Boston Fern",
     P4: "Snake Plant",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Bedroom",
@@ -1774,7 +1774,7 @@ let Answers = [
     P2: "Hypoestes",
     P3: "Rhapis lady Palm",
     P4: "Table Palm",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Bedroom",
@@ -1797,7 +1797,7 @@ let Answers = [
     P1: "Aglaonema Siam Aurora",
     P2: "Dieffenbachia Tropic Snow",
     P3: "Money Plant",
-    P4: "Syngonium",
+    P4: "Syngonium Podophyllum",
     P5: "Table Palm",
   },
   {
@@ -1808,9 +1808,9 @@ let Answers = [
     Q5: "No",
     P1: "Snake Plant",
     P2: "Hypoestes",
-    P3: "Aglaonema",
-    P4: "Dieffenbachia",
-    P5: "Syngonium",
+    P3: "Aglaonema Siam Aurora",
+    P4: "Dieffenbachia Tropic Snow",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Bedroom",
@@ -1822,7 +1822,7 @@ let Answers = [
     P2: "Money Plant",
     P3: "Dieffenbachia Tropic Snow",
     P4: "English Ivy",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Bedroom",
@@ -2026,7 +2026,7 @@ let Answers = [
     P2: "ZZ Plant",
     P3: "Aglaonema Silver Queen",
     P4: "Dieffenbachia Tropic Snow",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Bedroom",
@@ -2038,7 +2038,7 @@ let Answers = [
     P2: "Money Plant",
     P3: "Dieffenbachia Tropic Snow",
     P4: "English Ivy",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Bedroom",
@@ -2098,7 +2098,7 @@ let Answers = [
     P2: "Hypoestes",
     P3: "Rhapis lady Palm",
     P4: "Table Palm",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Bedroom",
@@ -2614,7 +2614,7 @@ let Answers = [
     P2: "Impatiens",
     P3: "Boston Fern",
     P4: "Snake Plant",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Hallway",
@@ -2938,7 +2938,7 @@ let Answers = [
     P2: "Hypoestes",
     P3: "Rhapis lady Palm",
     P4: "Table Palm",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Hallway",
@@ -2961,7 +2961,7 @@ let Answers = [
     P1: "Aglaonema Siam Aurora",
     P2: "Dieffenbachia Tropic Snow",
     P3: "Money Plant",
-    P4: "Syngonium",
+    P4: "Syngonium Podophyllum",
     P5: "Table Palm",
   },
   {
@@ -2972,9 +2972,9 @@ let Answers = [
     Q5: "No",
     P1: "Snake Plant",
     P2: "Hypoestes",
-    P3: "Aglaonema",
-    P4: "Dieffenbachia",
-    P5: "Syngonium",
+    P3: "Aglaonema Siam Aurora",
+    P4: "Dieffenbachia Tropic Snow",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Hallway",
@@ -2986,7 +2986,7 @@ let Answers = [
     P2: "Money Plant",
     P3: "Dieffenbachia Tropic Snow",
     P4: "English Ivy",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Hallway",
@@ -3190,7 +3190,7 @@ let Answers = [
     P2: "ZZ Plant",
     P3: "Aglaonema Silver Queen",
     P4: "Dieffenbachia Tropic Snow",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Hallway",
@@ -3202,7 +3202,7 @@ let Answers = [
     P2: "Money Plant",
     P3: "Dieffenbachia Tropic Snow",
     P4: "English Ivy",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Hallway",
@@ -3262,7 +3262,7 @@ let Answers = [
     P2: "Hypoestes",
     P3: "Rhapis lady Palm",
     P4: "Table Palm",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Hallway",
@@ -3778,7 +3778,7 @@ let Answers = [
     P2: "Impatiens",
     P3: "Boston Fern",
     P4: "Snake Plant",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Kitchen",
@@ -4102,7 +4102,7 @@ let Answers = [
     P2: "Hypoestes",
     P3: "Rhapis lady Palm",
     P4: "Table Palm",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Kitchen",
@@ -4125,7 +4125,7 @@ let Answers = [
     P1: "Aglaonema Siam Aurora",
     P2: "Dieffenbachia Tropic Snow",
     P3: "Money Plant",
-    P4: "Syngonium",
+    P4: "Syngonium Podophyllum",
     P5: "Table Palm",
   },
   {
@@ -4136,9 +4136,9 @@ let Answers = [
     Q5: "No",
     P1: "Snake Plant",
     P2: "Hypoestes",
-    P3: "Aglaonema",
-    P4: "Dieffenbachia",
-    P5: "Syngonium",
+    P3: "Aglaonema Siam Aurora",
+    P4: "Dieffenbachia Tropic Snow",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Kitchen",
@@ -4150,7 +4150,7 @@ let Answers = [
     P2: "Money Plant",
     P3: "Dieffenbachia Tropic Snow",
     P4: "English Ivy",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Kitchen",
@@ -4354,7 +4354,7 @@ let Answers = [
     P2: "ZZ Plant",
     P3: "Aglaonema Silver Queen",
     P4: "Dieffenbachia Tropic Snow",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Kitchen",
@@ -4366,7 +4366,7 @@ let Answers = [
     P2: "Money Plant",
     P3: "Dieffenbachia Tropic Snow",
     P4: "English Ivy",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Kitchen",
@@ -4426,7 +4426,7 @@ let Answers = [
     P2: "Hypoestes",
     P3: "Rhapis lady Palm",
     P4: "Table Palm",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Kitchen",
@@ -4942,7 +4942,7 @@ let Answers = [
     P2: "Impatiens",
     P3: "Boston Fern",
     P4: "Snake Plant",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Child's Room",
@@ -5266,7 +5266,7 @@ let Answers = [
     P2: "Hypoestes",
     P3: "Rhapis lady Palm",
     P4: "Table Palm",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Child's Room",
@@ -5289,7 +5289,7 @@ let Answers = [
     P1: "Aglaonema Siam Aurora",
     P2: "Dieffenbachia Tropic Snow",
     P3: "Money Plant",
-    P4: "Syngonium",
+    P4: "Syngonium Podophyllum",
     P5: "Table Palm",
   },
   {
@@ -5300,9 +5300,9 @@ let Answers = [
     Q5: "No",
     P1: "Snake Plant",
     P2: "Hypoestes",
-    P3: "Aglaonema",
-    P4: "Dieffenbachia",
-    P5: "Syngonium",
+    P3: "Aglaonema Siam Aurora",
+    P4: "Dieffenbachia Tropic Snow",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Child's Room",
@@ -5314,7 +5314,7 @@ let Answers = [
     P2: "Money Plant",
     P3: "Dieffenbachia Tropic Snow",
     P4: "English Ivy",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Child's Room",
@@ -5518,7 +5518,7 @@ let Answers = [
     P2: "ZZ Plant",
     P3: "Aglaonema Silver Queen",
     P4: "Dieffenbachia Tropic Snow",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Child's Room",
@@ -5530,7 +5530,7 @@ let Answers = [
     P2: "Money Plant",
     P3: "Dieffenbachia Tropic Snow",
     P4: "English Ivy",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Child's Room",
@@ -5590,7 +5590,7 @@ let Answers = [
     P2: "Hypoestes",
     P3: "Rhapis lady Palm",
     P4: "Table Palm",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Child's Room",
@@ -6106,7 +6106,7 @@ let Answers = [
     P2: "Impatiens",
     P3: "Boston Fern",
     P4: "Snake Plant",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Bathroom",
@@ -6430,7 +6430,7 @@ let Answers = [
     P2: "Hypoestes",
     P3: "Rhapis lady Palm",
     P4: "Table Palm",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Bathroom",
@@ -6453,7 +6453,7 @@ let Answers = [
     P1: "Aglaonema Siam Aurora",
     P2: "Dieffenbachia Tropic Snow",
     P3: "Money Plant",
-    P4: "Syngonium",
+    P4: "Syngonium Podophyllum",
     P5: "Table Palm",
   },
   {
@@ -6464,9 +6464,9 @@ let Answers = [
     Q5: "No",
     P1: "Snake Plant",
     P2: "Hypoestes",
-    P3: "Aglaonema",
-    P4: "Dieffenbachia",
-    P5: "Syngonium",
+    P3: "Aglaonema Siam Aurora",
+    P4: "Dieffenbachia Tropic Snow",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Bathroom",
@@ -6478,7 +6478,7 @@ let Answers = [
     P2: "Money Plant",
     P3: "Dieffenbachia Tropic Snow",
     P4: "English Ivy",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Bathroom",
@@ -6682,7 +6682,7 @@ let Answers = [
     P2: "ZZ Plant",
     P3: "Aglaonema Silver Queen",
     P4: "Dieffenbachia Tropic Snow",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Bathroom",
@@ -6694,7 +6694,7 @@ let Answers = [
     P2: "Money Plant",
     P3: "Dieffenbachia Tropic Snow",
     P4: "English Ivy",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Bathroom",
@@ -6754,7 +6754,7 @@ let Answers = [
     P2: "Hypoestes",
     P3: "Rhapis lady Palm",
     P4: "Table Palm",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Bathroom",
@@ -7270,7 +7270,7 @@ let Answers = [
     P2: "Impatiens",
     P3: "Boston Fern",
     P4: "Snake Plant",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Office",
@@ -7594,7 +7594,7 @@ let Answers = [
     P2: "Hypoestes",
     P3: "Rhapis lady Palm",
     P4: "Table Palm",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Office",
@@ -7617,7 +7617,7 @@ let Answers = [
     P1: "Aglaonema Siam Aurora",
     P2: "Dieffenbachia Tropic Snow",
     P3: "Money Plant",
-    P4: "Syngonium",
+    P4: "Syngonium Podophyllum",
     P5: "Table Palm",
   },
   {
@@ -7628,9 +7628,9 @@ let Answers = [
     Q5: "No",
     P1: "Snake Plant",
     P2: "Hypoestes",
-    P3: "Aglaonema",
-    P4: "Dieffenbachia",
-    P5: "Syngonium",
+    P3: "Aglaonema Siam Aurora",
+    P4: "Dieffenbachia Tropic Snow",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Office",
@@ -7642,7 +7642,7 @@ let Answers = [
     P2: "Money Plant",
     P3: "Dieffenbachia Tropic Snow",
     P4: "English Ivy",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Office",
@@ -7846,7 +7846,7 @@ let Answers = [
     P2: "ZZ Plant",
     P3: "Aglaonema Silver Queen",
     P4: "Dieffenbachia Tropic Snow",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Office",
@@ -7858,7 +7858,7 @@ let Answers = [
     P2: "Money Plant",
     P3: "Dieffenbachia Tropic Snow",
     P4: "English Ivy",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Office",
@@ -7918,7 +7918,7 @@ let Answers = [
     P2: "Hypoestes",
     P3: "Rhapis lady Palm",
     P4: "Table Palm",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Office",
@@ -8434,7 +8434,7 @@ let Answers = [
     P2: "Impatiens",
     P3: "Boston Fern",
     P4: "Snake Plant",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Balcony",
@@ -8758,7 +8758,7 @@ let Answers = [
     P2: "Hypoestes",
     P3: "Rhapis lady Palm",
     P4: "Table Palm",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Balcony",
@@ -8781,7 +8781,7 @@ let Answers = [
     P1: "Aglaonema Siam Aurora",
     P2: "Dieffenbachia Tropic Snow",
     P3: "Money Plant",
-    P4: "Syngonium",
+    P4: "Syngonium Podophyllum",
     P5: "Table Palm",
   },
   {
@@ -8792,9 +8792,9 @@ let Answers = [
     Q5: "No",
     P1: "Snake Plant",
     P2: "Hypoestes",
-    P3: "Aglaonema",
-    P4: "Dieffenbachia",
-    P5: "Syngonium",
+    P3: "Aglaonema Siam Aurora",
+    P4: "Dieffenbachia Tropic Snow",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Balcony",
@@ -8806,7 +8806,7 @@ let Answers = [
     P2: "Money Plant",
     P3: "Dieffenbachia Tropic Snow",
     P4: "English Ivy",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Balcony",
@@ -9010,7 +9010,7 @@ let Answers = [
     P2: "ZZ Plant",
     P3: "Aglaonema Silver Queen",
     P4: "Dieffenbachia Tropic Snow",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Balcony",
@@ -9022,7 +9022,7 @@ let Answers = [
     P2: "Money Plant",
     P3: "Dieffenbachia Tropic Snow",
     P4: "English Ivy",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Balcony",
@@ -9082,7 +9082,7 @@ let Answers = [
     P2: "Hypoestes",
     P3: "Rhapis lady Palm",
     P4: "Table Palm",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Balcony",
@@ -9598,7 +9598,7 @@ let Answers = [
     P2: "Impatiens",
     P3: "Dracaena Fragrans",
     P4: "Snake Plant",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Outdoor Garden",
@@ -9922,7 +9922,7 @@ let Answers = [
     P2: "Hypoestes",
     P3: "Rhapis lady Palm",
     P4: "Table Palm",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Outdoor Garden",
@@ -9945,7 +9945,7 @@ let Answers = [
     P1: "Aglaonema Siam Aurora",
     P2: "Dieffenbachia Tropic Snow",
     P3: "Money Plant",
-    P4: "Syngonium",
+    P4: "Syngonium Podophyllum",
     P5: "Table Palm",
   },
   {
@@ -9956,9 +9956,9 @@ let Answers = [
     Q5: "No",
     P1: "Snake Plant",
     P2: "Hypoestes",
-    P3: "Aglaonema",
-    P4: "Dieffenbachia",
-    P5: "Syngonium",
+    P3: "Aglaonema Siam Aurora",
+    P4: "Dieffenbachia Tropic Snow",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Outdoor Garden",
@@ -9970,7 +9970,7 @@ let Answers = [
     P2: "Money Plant",
     P3: "Dieffenbachia Tropic Snow",
     P4: "English Ivy",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Outdoor Garden",
@@ -10174,7 +10174,7 @@ let Answers = [
     P2: "ZZ Plant",
     P3: "Aglaonema Silver Queen",
     P4: "Dieffenbachia Tropic Snow",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Outdoor Garden",
@@ -10186,7 +10186,7 @@ let Answers = [
     P2: "Money Plant",
     P3: "Dieffenbachia Tropic Snow",
     P4: "English Ivy",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Outdoor Garden",
@@ -10246,7 +10246,7 @@ let Answers = [
     P2: "Hypoestes",
     P3: "Rhapis lady Palm",
     P4: "Table Palm",
-    P5: "Syngonium",
+    P5: "Syngonium Podophyllum",
   },
   {
     Q1: "Outdoor Garden",
@@ -10482,108 +10482,105 @@ var Plants = [
   {
     plantName: "Areca Palm",
     Imgsrc:
-      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set20_Page_17_1024x1024@2x.jpg?v=1612899817",
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set20_Page_17_1024x1024@2x.jpg",
     Shopifylink:
-      "https://leafyisland.com/products/areca-palm-big-3-5-4-5-feet-tall-dypsis-lutescens?_pos=3&_psq=Areca&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/areca-palm-big-3-5-4-5-feet-tall-dypsis-lutescens",
     "Product Exact Name": "Areca Palm Big (3.5 feet tall), Dypsis Lutescens",
     Description: "",
   },
   {
     plantName: "Spider Plant",
     Imgsrc:
-      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/SpiderPlant_1024x1024@2x.jpg?v=1612700477",
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/SpiderPlant_1024x1024@2x.jpg",
     Shopifylink:
-      "https://leafyisland.com/products/spider-plant-chlorophytum-comosum?_pos=1&_psq=spider&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/spider-plant-chlorophytum-comosum",
     "Product Exact Name": "Spider Plant, Chlorophytum Comosum",
     Description: "",
   },
   {
     plantName: "Rhapis Lady Palm",
     Imgsrc:
-      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/RhapisPalmPlant_1024x1024@2x.jpg?v=1612549329",
-    Shopifylink:
-      "https://leafyisland.com/products/rhapis?_pos=1&_psq=rha&_ss=e&_v=1.0",
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/RhapisPalmPlant_1024x1024@2x.jpg",
+    Shopifylink: "https://leafyisland.com/products/rhapis",
     "Product Exact Name": "Rhapis, Lady Palm Plant",
     Description: "",
   },
   {
     plantName: "Aloe Vera",
     Imgsrc:
-      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set20_Page_18_1024x1024@2x.jpg?v=1612899785",
-    Shopifylink:
-      "https://leafyisland.com/products/aloe-vera-succulent-plant?_pos=3&_psq=alo&_ss=e&_v=1.0",
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set20_Page_18_1024x1024@2x.jpg",
+    Shopifylink: "https://leafyisland.com/products/aloe-vera-succulent-plant",
     "Product Exact Name": "Aloe Vera, Succulent Plant, Medicinal Plant",
     Description: "",
   },
   {
     plantName: "ZZ Plant",
     Imgsrc:
-      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/ZZPlant_1024x1024@2x.jpg?v=1612700573",
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/ZZPlant_1024x1024@2x.jpg",
     Shopifylink:
-      "https://leafyisland.com/products/zz-plant-zamioculcas-zamiifolia-plant?_pos=1&_psq=ZZ&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/zz-plant-zamioculcas-zamiifolia-plant",
     "Product Exact Name": "ZZ Plant, Zamioculcas Zamiifolia Plant",
     Description: "",
   },
   {
     plantName: "Monstera",
     Imgsrc:
-      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/MonsteraDeliciosa_1024x1024@2x.jpg?v=1612549279",
-    Shopifylink:
-      "https://leafyisland.com/products/monstera-deliciosa?_pos=2&_psq=Monstera&_ss=e&_v=1.0",
-    "Product Exact Name": "Monstera Deliciosa, Swiss Cheese Plant",
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/MonsteraDeliciosa_1024x1024@2x.jpg",
+    Shopifylink: "https://leafyisland.com/products/monstera-deliciosa",
+    "Product Exact Name": "MonsteraDeliciosa, Swiss Cheese Plant",
     Description: "",
   },
   {
     plantName: "Carpet Sedum",
     Imgsrc:
-      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/CarpetSedum_5_1024x1024@2x.jpg?v=1612695752",
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/CarpetSedum_5_1024x1024@2x.jpg",
     Shopifylink:
-      "https://leafyisland.com/products/carpet-sedum-sedum-angelina-green-succulent?_pos=1&_psq=Carpet&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/carpet-sedum-sedum-angelina-green-succulent",
     "Product Exact Name": "Carpet Sedum, Sedum Angelina Green - Succulent",
     Description: "",
   },
   {
     plantName: "Ruffled Fan Palm",
     Imgsrc:
-      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/1_1024x1024@2x.jpg?v=1612537685",
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/1_1024x1024@2x.jpg",
     Shopifylink:
-      "https://leafyisland.com/products/ruffled-fan-palm-licuala-grandis-pichodia-grandis?_pos=1&_psq=ruffled&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/ruffled-fan-palm-licuala-grandis-pichodia-grandis",
     "Product Exact Name": "Ruffled Fan Palm, Licuala Grandis, Pichodia Grandis",
     Description: "",
   },
   {
     plantName: "Jade",
     Imgsrc:
-      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/Untitled-2_Page_03_1024x1024@2x.jpg?v=1612863451",
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/Untitled-2_Page_03_1024x1024@2x.jpg",
     Shopifylink:
-      "https://leafyisland.com/products/jade-plant-green-elephant-bush-portulacaria-afra-succulent-plant?_pos=4&_psq=jade&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/jade-plant-green-elephant-bush-portulacaria-afra-succulent-plant",
     "Product Exact Name": "Jade Plant (Green) in a Woven Basket Planter",
     Description: "",
   },
   {
     plantName: "Crotons",
     Imgsrc:
-      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/webisteplants1_Page_21_1024x1024@2x.jpg?v=1612696192",
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/webisteplants1_Page_21_1024x1024@2x.jpg",
     Shopifylink:
-      "https://leafyisland.com/products/croton-petra-plant-codiaeum-variegatum?_pos=1&_psq=crot&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/croton-petra-plant-codiaeum-variegatum",
     "Product Exact Name": "Croton Petra Plant, Codiaeum Variegatum (Petra)",
     Description: "",
   },
   {
     plantName: "Table Palm",
     Imgsrc:
-      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/TablePalm_1_1024x1024@2x.jpg?v=1612699695",
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/TablePalm_1_1024x1024@2x.jpg",
     Shopifylink:
-      "https://leafyisland.com/products/table-palm-umbrella-palm-livistona-rotundifolia?_pos=1&_psq=table&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/table-palm-umbrella-palm-livistona-rotundifolia",
     "Product Exact Name": "Table Palm, Umbrella Palm, Livistona Rotundifolia",
     Description: "",
   },
   {
     plantName: "Snake Plant",
     Imgsrc:
-      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/SnakePlant_var.Laurentii_SansevieriaTrifasciata_1024x1024@2x.jpg?v=1612698163",
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/SnakePlant_var.Laurentii_SansevieriaTrifasciata_1024x1024@2x.jpg",
     Shopifylink:
-      "https://leafyisland.com/products/snake-plant-var-laurentii-sansevieria-trifasciata?_pos=3&_psq=Snake&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/snake-plant-var-laurentii-sansevieria-trifasciata",
     "Product Exact Name":
       "Snake Plant (var. Laurentii), Sansevieria Trifasciata",
     Description: "",
@@ -10591,18 +10588,18 @@ var Plants = [
   {
     plantName: "Maranta",
     Imgsrc:
-      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set20_Page_01_1_1024x1024@2x.jpg?v=1612811134",
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set20_Page_01_1_1024x1024@2x.jpg",
     Shopifylink:
-      "https://leafyisland.com/products/maranta-leuconeura-prayer-plant?_pos=1&_psq=maran&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/maranta-leuconeura-prayer-plant",
     "Product Exact Name": "Maranta Leuconeura, Prayer Plant",
     Description: "",
   },
   {
     plantName: "Raindrop Peperomia",
     Imgsrc:
-      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/new_Page_2_1024x1024@2x.jpg?v=1618819650",
+      "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/new_Page_2_1024x1024@2x.jpg",
     Shopifylink:
-      "https://leafyisland.com/products/raindrop-peperomia-peperomia-polybotrya-plant?_pos=1&_psq=Raind&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/raindrop-peperomia-peperomia-polybotrya-plant",
     "Product Exact Name": "Raindrop Peperomia, Peperomia Polybotrya Plant",
     Description: "",
   },
@@ -10611,7 +10608,7 @@ var Plants = [
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set28_Page_08_1024x1024@2x.jpg?v=1618489591",
     Shopifylink:
-      "https://leafyisland.com/products/ribbonbush-plant-muehlenbeckia-platyclada-plant?_pos=2&_psq=ribb&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/ribbonbush-plant-muehlenbeckia-platyclada-plant",
     "Product Exact Name": "Ribbonbush Plant, Muehlenbeckia Platyclada Plant",
     Description: "",
   },
@@ -10619,8 +10616,7 @@ var Plants = [
     plantName: "Dracaena Fragrans",
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set28_Page_14_1024x1024@2x.jpg?v=1618483516",
-    Shopifylink:
-      "https://leafyisland.com/products/dracaena-fragrans?_pos=1&_psq=frag&_ss=e&_v=1.0",
+    Shopifylink: "https://leafyisland.com/products/dracaena-fragrans",
     "Product Exact Name": "Dracaena Fragrans, Fragrant Dracaena Plant",
     Description: "",
   },
@@ -10629,7 +10625,7 @@ var Plants = [
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set27_Page_8_1024x1024@2x.jpg?v=1618229683",
     Shopifylink:
-      "https://leafyisland.com/products/japanese-spindletree-euonymus-japonicus-plant?_pos=1&_psq=japanese&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/japanese-spindletree-euonymus-japonicus-plant",
     "Product Exact Name": "Japanese Spindletree, Euonymus japonicus Plant",
     Description: "",
   },
@@ -10638,7 +10634,7 @@ var Plants = [
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/TablePalm_1_1024x1024@2x.jpg?v=1612699695",
     Shopifylink:
-      "https://leafyisland.com/products/table-palm-umbrella-palm-livistona-rotundifolia?_pos=2&_psq=Ta&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/table-palm-umbrella-palm-livistona-rotundifolia",
     "Product Exact Name": "Table Palm, Umbrella Palm, Livistona Rotundifolia",
     Description: "",
   },
@@ -10647,7 +10643,7 @@ var Plants = [
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set24_Page_1_1024x1024@2x.jpg?v=1615381559",
     Shopifylink:
-      "https://leafyisland.com/products/mini-fiddle-leaf-fig-plant-ficus-lyrata?_pos=1&_psq=Fidd&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/mini-fiddle-leaf-fig-plant-ficus-lyrata",
     "Product Exact Name": "Mini Fiddle Leaf Fig Plant, Ficus Lyrata",
     Description: "",
   },
@@ -10655,8 +10651,7 @@ var Plants = [
     plantName: "Coleus",
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set26_Page_23_1024x1024@2x.jpg?v=1617561143",
-    Shopifylink:
-      "https://leafyisland.com/products/coleus-maroon-green-plant?_pos=3&_psq=coleus&_ss=e&_v=1.0",
+    Shopifylink: "https://leafyisland.com/products/coleus-maroon-green-plant",
     "Product Exact Name": "Coleus Maroon-Green Plant",
     Description: "",
   },
@@ -10665,7 +10660,7 @@ var Plants = [
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/Untitled-1_Page_17_1024x1024@2x.jpg?v=1612864006",
     Shopifylink:
-      "https://leafyisland.com/products/succulent-bush-in-a-woven-basket?_pos=1&_psq=Succulent%20bush&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/succulent-bush-in-a-woven-basket",
     "Product Exact Name": "Succulent Bush in a Woven Basket Planter",
     Description: "",
   },
@@ -10673,8 +10668,7 @@ var Plants = [
     plantName: "Anthurium",
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/webisteplants1_Page_28_1024x1024@2x.jpg?v=1612697044",
-    Shopifylink:
-      "https://leafyisland.com/products/anthurium-plant?_pos=3&_psq=anthu&_ss=e&_v=1.0",
+    Shopifylink: "https://leafyisland.com/products/anthurium-plant",
     "Product Exact Name":
       "Anthurium Plant - Any Color (Red, Purple, White, Pink)",
     Description: "",
@@ -10684,7 +10678,7 @@ var Plants = [
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/PhilodendronCeylon_1_1024x1024@2x.jpg?v=1612699192",
     Shopifylink:
-      "https://leafyisland.com/products/philodendron-ceylon-golden-plant?_pos=1&_psq=cey&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/philodendron-ceylon-golden-plant",
     "Product Exact Name": "Philodendron Ceylon Golden Plant",
     Description: "",
   },
@@ -10692,8 +10686,7 @@ var Plants = [
     plantName: "Impatiens",
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/Untitled-10_Page_11_1024x1024@2x.jpg?v=1612857078",
-    Shopifylink:
-      "https://leafyisland.com/products/impatiens-walleriana-plant?_pos=3&_psq=imp&_ss=e&_v=1.0",
+    Shopifylink: "https://leafyisland.com/products/impatiens-walleriana-plant",
     "Product Exact Name": "Impatiens Walleriana Plant",
     Description: "",
   },
@@ -10702,7 +10695,7 @@ var Plants = [
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/Miniaturefern_1024x1024@2x.jpg?v=1612698737",
     Shopifylink:
-      "https://leafyisland.com/products/miniature-tree-fern-oceaniopteris-gibba?_pos=3&_psq=Miniat&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/miniature-tree-fern-oceaniopteris-gibba",
     "Product Exact Name": "Miniature Tree Fern, Oceaniopteris Gibba",
     Description: "",
   },
@@ -10710,8 +10703,7 @@ var Plants = [
     plantName: "Gerbera",
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/Gerbera_1024x1024@2x.jpg?v=1612850497",
-    Shopifylink:
-      "https://leafyisland.com/products/gerbera-plant?_pos=1&_psq=Gerbera&_ss=e&_v=1.0",
+    Shopifylink: "https://leafyisland.com/products/gerbera-plant",
     "Product Exact Name": "Gerbera Plant",
     Description: "",
   },
@@ -10720,7 +10712,7 @@ var Plants = [
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set20_Page_11_1024x1024@2x.jpg?v=1612811308",
     Shopifylink:
-      "https://leafyisland.com/products/polka-dot-plant-hypoestes-phyllostachya-green-plant?_pos=2&_psq=Hypoes&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/polka-dot-plant-hypoestes-phyllostachya-green-plant",
     "Product Exact Name":
       "Polka-Dot Plant, Hypoestes Phyllostachya Green Plant",
     Description: "",
@@ -10729,8 +10721,7 @@ var Plants = [
     plantName: "Dieffenbachia Tropic Snow",
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/DieffenbachiaTropicSnow_1024x1024@2x.jpg?v=1612695395",
-    Shopifylink:
-      "https://leafyisland.com/products/dieffenbachia-tropic-snow?_pos=2&_psq=tropic&_ss=e&_v=1.0",
+    Shopifylink: "https://leafyisland.com/products/dieffenbachia-tropic-snow",
     "Product Exact Name": "Dieffenbachia Tropic Snow, Dieffenbachia Seguine",
     Description: "",
   },
@@ -10738,8 +10729,7 @@ var Plants = [
     plantName: "Money Plant",
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/Moneyplantgreen_1024x1024@2x.jpg?v=1612698604",
-    Shopifylink:
-      "https://leafyisland.com/products/money-plant?_pos=1&_sid=747336988&_ss=r",
+    Shopifylink: "https://leafyisland.com/products/money-plant",
     "Product Exact Name": "Money Plant Green-Yellow, Money Plant Variegated",
     Description: "",
   },
@@ -10747,8 +10737,7 @@ var Plants = [
     plantName: "Calathea",
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/setno22_Page_04_540x.jpg?v=1614176271",
-    Shopifylink:
-      "https://leafyisland.com/products/calathea-plant?_pos=1&_psq=Cala&_ss=e&_v=1.0",
+    Shopifylink: "https://leafyisland.com/products/calathea-plant",
     "Product Exact Name": "Calathea Plant",
     Description: "",
   },
@@ -10757,7 +10746,7 @@ var Plants = [
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set28_Page_13_1024x1024@2x.jpg?v=1618485135",
     Shopifylink:
-      "https://leafyisland.com/products/pink-anthurium-plant-in-woven-vase-planter?_pos=1&_psq=Pink%20anthu&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/pink-anthurium-plant-in-woven-vase-planter",
     "Product Exact Name": "Pink Anthurium Plant In Woven Vase Planter",
     Description: "",
   },
@@ -10766,7 +10755,7 @@ var Plants = [
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set27_Page_6_1024x1024@2x.jpg?v=1618239772",
     Shopifylink:
-      "https://leafyisland.com/products/string-of-pearls-in-5-inch-square-pot?_pos=1&_psq=String&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/string-of-pearls-in-5-inch-square-pot",
     "Product Exact Name": "String of Pearls in Square Pot",
     Description: "",
   },
@@ -10775,7 +10764,7 @@ var Plants = [
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set26_Page_16_1024x1024@2x.jpg?v=1617561245",
     Shopifylink:
-      "https://leafyisland.com/products/wandering-jew-in-hanging-basket?_pos=1&_psq=Wandering&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/wandering-jew-in-hanging-basket",
     "Product Exact Name":
       "Tradescantia Zebrina - Wandering Jew in Hanging Basket",
     Description: "",
@@ -10785,7 +10774,7 @@ var Plants = [
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/Untitled-1_Page_14_1_1024x1024@2x.jpg?v=1617776159",
     Shopifylink:
-      "https://leafyisland.com/products/boston-fern-in-hanging-basket?_pos=1&_psq=bos&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/boston-fern-in-hanging-basket",
     "Product Exact Name": "Boston Fern in Hanging Basket",
     Description: "",
   },
@@ -10794,7 +10783,7 @@ var Plants = [
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/SyngoniumPodophyllum_1024x1024@2x.jpg?v=1612699610",
     Shopifylink:
-      "https://leafyisland.com/products/syngonium-podophyllum-african-evergreen-plant?_pos=1&_psq=podo&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/syngonium-podophyllum-african-evergreen-plant",
     "Product Exact Name": "Syngonium Podophyllum, African Evergreen Plant",
     Description: "",
   },
@@ -10802,8 +10791,7 @@ var Plants = [
     plantName: "Jasmine",
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/JasmineMogra_1024x1024@2x.jpg?v=1612699446",
-    Shopifylink:
-      "https://leafyisland.com/products/jasmine-plant-mogra?_pos=1&_psq=Jasmine&_ss=e&_v=1.0",
+    Shopifylink: "https://leafyisland.com/products/jasmine-plant-mogra",
     "Product Exact Name": "Jasmine Plant, Mogra",
     Description: "",
   },
@@ -10812,7 +10800,7 @@ var Plants = [
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/Untitled-1_Page_19_1024x1024@2x.jpg?v=1612862707",
     Shopifylink:
-      "https://leafyisland.com/products/aglaonema-commutatum-silver-queen?_pos=1&_psq=silver&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/aglaonema-commutatum-silver-queen",
     "Product Exact Name": "Aglaonema Commutatum Silver Queen Plant",
     Description: "",
   },
@@ -10821,7 +10809,7 @@ var Plants = [
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set27_Page_1_1024x1024@2x.jpg?v=1618570542",
     Shopifylink:
-      "https://leafyisland.com/products/dracaena-braunii-water-bamboo?_pos=1&_psq=water&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/dracaena-braunii-water-bamboo",
     "Product Exact Name": "Water Bamboo, Dracaena Braunii",
     Description: "",
   },
@@ -10830,7 +10818,7 @@ var Plants = [
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set21_Page_14_1024x1024@2x.jpg?v=1612900284",
     Shopifylink:
-      "https://leafyisland.com/products/shevanti-chrysanthemums-golden-yellow-plant?_pos=3&_psq=Chrysan&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/shevanti-chrysanthemums-golden-yellow-plant",
     "Product Exact Name":
       "Shevanti, Chrysanthemums Golden, Yellow or White Plant",
     Description: "",
@@ -10840,7 +10828,7 @@ var Plants = [
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/RubberPlant_540x.jpg?v=1612697847",
     Shopifylink:
-      "https://leafyisland.com/products/rubber-plant-rubber-tree-ficus-elastica-plant?_pos=1&_psq=Rubber&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/rubber-plant-rubber-tree-ficus-elastica-plant",
     "Product Exact Name": "Rubber Plant, Rubber Tree, Ficus Elastica Plant",
     Description: "",
   },
@@ -10848,8 +10836,7 @@ var Plants = [
     plantName: "English Ivy",
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/EnglishIvy_1024x1024@2x.jpg?v=1612694940",
-    Shopifylink:
-      "https://leafyisland.com/products/english-ivy-common-ivy?_pos=1&_psq=ivy&_ss=e&_v=1.0",
+    Shopifylink: "https://leafyisland.com/products/english-ivy-common-ivy",
     "Product Exact Name": "English Ivy, Common Ivy",
     Description: "",
   },
@@ -10858,7 +10845,7 @@ var Plants = [
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/SongofIndia_1024x1024@2x.jpg?v=1612700542",
     Shopifylink:
-      "https://leafyisland.com/products/song-of-india-dracaena-reflexa-pleomela?_pos=1&_psq=song&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/song-of-india-dracaena-reflexa-pleomela",
     "Product Exact Name": "Song of India, Dracaena Reflexa or Pleomela",
     Description: "",
   },
@@ -10866,8 +10853,7 @@ var Plants = [
     plantName: "Petunia",
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/PetuniaPurple_1024x1024@2x.jpg?v=1612811870",
-    Shopifylink:
-      "https://leafyisland.com/products/petunia-plant?_pos=2&_psq=petunia&_ss=e&_v=1.0",
+    Shopifylink: "https://leafyisland.com/products/petunia-plant",
     "Product Exact Name": "Petunia Purple Plant",
     Description: "",
   },
@@ -10875,8 +10861,7 @@ var Plants = [
     plantName: "Dracaena Limelight",
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/Untitled-1_Page_19_1_1024x1024@2x.jpg?v=1612863663",
-    Shopifylink:
-      "https://leafyisland.com/products/dracaena-limelight?_pos=1&_psq=Lime&_ss=e&_v=1.0",
+    Shopifylink: "https://leafyisland.com/products/dracaena-limelight",
     "Product Exact Name": "Dracaena Limelight",
     Description: "",
   },
@@ -10885,7 +10870,7 @@ var Plants = [
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/MoneyPlantTall_300x300.jpg?v=1612548460",
     Shopifylink:
-      "https://leafyisland.com/products/money-plant-green-variegated-3-5-4-feet-with-moss-stick?_pos=2&_psq=money%20plant%20varie&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/money-plant-green-variegated-3-5-4-feet-with-moss-stick",
     "Product Exact Name":
       "Money Plant Green Variegated, 3.5 feet with Moss Stick",
     Description: "",
@@ -10895,7 +10880,7 @@ var Plants = [
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/Untitled-1_Page_28_1024x1024@2x.jpg?v=1612865571",
     Shopifylink:
-      "https://leafyisland.com/products/aglaonema-siam-aurora-aglaonema-lipstick?_pos=1&_psq=siam&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/aglaonema-siam-aurora-aglaonema-lipstick",
     "Product Exact Name": "Aglaonema Siam Aurora, Aglaonema Lipstick Plant",
     Description: "",
   },
@@ -10903,8 +10888,7 @@ var Plants = [
     plantName: "Pentas",
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set20_Page_14_1024x1024@2x.jpg?v=1612900210",
-    Shopifylink:
-      "https://leafyisland.com/products/pentas-plant?_pos=1&_psq=Pentas&_ss=e&_v=1.0",
+    Shopifylink: "https://leafyisland.com/products/pentas-plant",
     "Product Exact Name": "Pentas Plant",
     Description: "",
   },
@@ -10913,7 +10897,7 @@ var Plants = [
     Imgsrc:
       "https://cdn.shopify.com/s/files/1/0400/1090/7804/products/Untitled-1_Page_19_540x.jpg?v=1612862707",
     Shopifylink:
-      "https://leafyisland.com/products/aglaonema-commutatum-silver-queen?_pos=1&_psq=silver&_ss=e&_v=1.0",
+      "https://leafyisland.com/products/aglaonema-commutatum-silver-queen",
     "Product Exact Name": "Aglaonema Commutatum Silver Queen Plant",
     Description: "",
   },
@@ -11103,13 +11087,12 @@ function EmailValidation() {
 }
 
 function sendPhoneNumber(form) {
-  console.log();
   axios({
     method: "POST",
-    url: "http://localhost:8080/recommendation",
+    url: "http://leafy.ap-south-1.elasticbeanstalk.com/recommendation",
     data: {
       phone: document.getElementById("exampleInputEmail1").value,
-      recomendation: recomPlants,
+      recommendation: recomPlants,
     },
   })
     .then((res) => {
