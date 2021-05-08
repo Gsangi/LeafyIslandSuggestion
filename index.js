@@ -11041,7 +11041,7 @@ function buttons() {
     } else if (count === 3) {
       heading.innerHTML = Object.keys(object3)[0];
       image.src =
-        "./img/chewy-KIqJfzbII9w-unsplash (1).jpg";
+        "https://images.unsplash.com/photo-1601758123927-4f7acc7da589?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80";
     } else if (count === 4) {
       heading.innerHTML = Object.keys(object4)[0];
       image.src =
