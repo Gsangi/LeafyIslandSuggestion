@@ -177,3 +177,7 @@ body{
 .navbar .navbar-nav .nav-link:hover::after {
   width: 100%;
 }
+
+.site-content-wrapper {
+  overflow-y: hidden;
+ }

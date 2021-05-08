@@ -11100,7 +11100,3 @@ function sendPhoneNumber(form) {
       console.log(e);
     });
 }
-
-
-div.addEventListener('scroll',() =>
-    div.scrollTop = Math.max(1, Math.min(div.scrollTop, div.scrollHeight - div.clientHeight - 1)));
