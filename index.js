@@ -11059,9 +11059,10 @@ function buttons() {
   count++;
 }
 buttons();
-
+document.getElementById("cross").style.display = "none"
 if(screen.width < 700){
   document.getElementById("exampleModalLabel").innerHTML = "We have share the list with you on your WhatsApp no. <br> Scroll down to check the curated list.";
+  document.getElementById("cross").style.display = "block"
 }
 
 // modal section here
