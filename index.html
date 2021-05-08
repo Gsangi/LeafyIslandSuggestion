@@ -24,6 +24,21 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.min.js"></script>
   </head>
   <body>
+    <nav class="navbar py-1 navbar-expand-lg navbar-light sticky-top border border-top-0 border-left-0 border-right-0" id="navbar">
+      <a class="navbar-brand" href="#">
+        <img src="./img/logo_1.png" width="auto" height="60" alt="">
+      </a>
+      <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar">
+          <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="navbar-collapse collapse justify-content-end" id="navbar">
+          <ul class="navbar-nav">
+              <li class="nav-item"><a href="https://leafyisland.com/" class="nav-link">Home</a></li>
+              <li class="nav-item"><a href="#" class="nav-link">About</a></li>
+              <li class="nav-item"><a href="https://leafyisland.com/pages/contact-us" class="nav-link">Contact</a></li>
+          </ul>
+      </div>
+  </nav>
     <div class="row g-0" id="row">
       <div class="col-12 col-md-6 order-md-last second-section">
         <img id="myimg" src="" alt="" />
@@ -39,7 +54,7 @@
 
     <style type="text/css">
       .body {
-        background-image: url(https://images.pexels.com/photos/4503273/pexels-photo-4503273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+        background-image: url("./img/vadim-kaipov-8ZELrodSvTc-unsplash-min (1).jpg");
         background-position: center;
         background-size: cover;
         display: flex;
@@ -76,59 +91,62 @@
       }
     </style>
 
-    <div class="body" id="secondpage" style="display: flex;justify-content: center;align-items: center;">
+    <div
+      class="body"
+      id="secondpage"
+      style="display: flex; justify-content: center; align-items: center"
+    >
       <div class="content">
         <div class="row">
           <div class="col-10 col-sm-8 mx-auto form-group">
-            <h4>Leafy Island</h4>
-            <h3>READY TO MEET YOUR PERFECT PLANT?</h3>
+            <h3>READY TO MEET YOU PERFECT PLANT?</h3>
             <p style="text-align: start">
-              Enter your Whatsapp number to get matched, and receive plant care
-              tips, curated recommendations, and more.
+              We have curated a list of 5 plants that are best suited for you.
+              Our botanist will send this to you on your Whatsapp.
             </p>
-              <input
-                onkeypress="EmailValidation()"
-                onchange="EmailValidation()"
-                type="tel"
-                name="phone"
-                maxlength="13"
-                class="form-control"
-                id="exampleInputEmail1"
-                aria-describedby="emailHelp"
-                placeholder="Enter Whatsapp number"
-              />
-              <small id="emailHelp" class="form-text text-muted"
-                >We'll never share your mobile number with anyone else.</small
-              >
+            <input
+              onkeypress="EmailValidation()"
+              onchange="EmailValidation()"
+              type="tel"
+              name="phone"
+              maxlength="13"
+              class="form-control"
+              id="exampleInputEmail1"
+              aria-describedby="emailHelp"
+              placeholder="Enter your Whatsapp Number"
+            />
+            <small id="emailHelp" class="form-text text-muted"
+              >We pinky promise to never spam your number!
+            </small>
 
-              <div class="w-100"></div>
-              <div class="d-grid gap-2 col-10 col-sm-6 mx-auto mt-4">
-                <button
-                  type="button"
-                  class="btn btn-dark"
-                  id="submitButton"
-                  onclick="sendPhoneNumber(this)"
-                  data-bs-toggle="modal"
-                  data-bs-target="#exampleModal"
-                >
-                Submit
-                </button>
-                <script>
-                  let input = document.getElementById("exampleInputEmail1");
-                  let button = document.getElementById("submitButton");
-                  button.disabled = true;
-                  input.addEventListener("change", stateHandle);
-                  function stateHandle() {
-                    if (
-                      document.getElementById("exampleInputEmail1").value === ""
-                    ) {
-                      button.disabled = true;
-                    } else {
-                      button.disabled = false;
-                    }
+            <div class="w-100"></div>
+            <div class="d-grid gap-2 col-10 col-sm-6 mx-auto mt-4">
+              <button
+                type="button"
+                class="btn btn-dark"
+                id="submitButton"
+                onclick="sendPhoneNumber(this)"
+                data-bs-toggle="modal"
+                data-bs-target="#exampleModal"
+              >
+                SUBMIT
+              </button>
+              <script>
+                let input = document.getElementById("exampleInputEmail1");
+                let button = document.getElementById("submitButton");
+                button.disabled = true;
+                input.addEventListener("change", stateHandle);
+                function stateHandle() {
+                  if (
+                    document.getElementById("exampleInputEmail1").value === ""
+                  ) {
+                    button.disabled = true;
+                  } else {
+                    button.disabled = false;
                   }
-                </script>
-              </div>
+                }
+              </script>
+            </div>
           </div>
         </div>
       </div>

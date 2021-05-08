@@ -1,8 +1,8 @@
 let Answers = [
   {
     Q1: "Which room are you looking to put plants in?",
-    Q2: "What kind of light does this area get?",
-    Q3: "What's your experience with plants?",
+    Q2: "How much light does this area receive?",
+    Q3: "How good a plant parent are you ?",
     Q4: "Do you have any pets or children?",
     Q5:
       "Do you travel often, or are you likely to forget watering your plants?",
@@ -14,8 +14,8 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Areca Palm",
@@ -26,8 +26,8 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -38,8 +38,8 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -50,8 +50,8 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Aloe Vera",
@@ -62,8 +62,8 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "ZZ Plant",
@@ -74,8 +74,8 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -86,7 +86,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -98,7 +98,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -110,7 +110,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -122,7 +122,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -134,7 +134,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -146,7 +146,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -158,7 +158,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -170,7 +170,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -182,7 +182,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -194,7 +194,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -206,7 +206,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -218,7 +218,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -230,7 +230,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -242,7 +242,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -254,7 +254,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -266,7 +266,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -278,7 +278,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -290,7 +290,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -302,8 +302,8 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Pentas",
@@ -314,8 +314,8 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Pentas",
@@ -326,8 +326,8 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Pentas",
@@ -338,8 +338,8 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Jade",
@@ -350,8 +350,8 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Jade",
@@ -362,8 +362,8 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Jade",
@@ -374,7 +374,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -386,7 +386,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -398,7 +398,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -410,7 +410,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -422,7 +422,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -434,7 +434,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -446,7 +446,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -458,7 +458,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -470,7 +470,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -482,7 +482,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -494,7 +494,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -506,7 +506,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -518,7 +518,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -530,7 +530,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -542,7 +542,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -554,7 +554,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -566,7 +566,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -578,7 +578,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -591,7 +591,7 @@ let Answers = [
   {
     Q1: "Living Room",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Table Palm",
@@ -603,7 +603,7 @@ let Answers = [
   {
     Q1: "Living Room",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -615,7 +615,7 @@ let Answers = [
   {
     Q1: "Living Room",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Ruffled Fan Palm",
@@ -627,7 +627,7 @@ let Answers = [
   {
     Q1: "Living Room",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Aglaonema Siam Aurora",
@@ -639,7 +639,7 @@ let Answers = [
   {
     Q1: "Living Room",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Snake Plant",
@@ -651,7 +651,7 @@ let Answers = [
   {
     Q1: "Living Room",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Aglaonema Siam Aurora",
@@ -878,8 +878,8 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Areca Palm",
@@ -890,8 +890,8 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -902,8 +902,8 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -914,8 +914,8 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Table Palm",
@@ -926,8 +926,8 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Spider Plant",
@@ -938,8 +938,8 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Ruffled Fan Palm",
@@ -950,7 +950,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -962,7 +962,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -974,7 +974,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -986,7 +986,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -998,7 +998,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -1010,7 +1010,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -1022,7 +1022,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -1034,7 +1034,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -1046,7 +1046,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -1058,7 +1058,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -1070,7 +1070,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -1082,7 +1082,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -1094,7 +1094,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -1106,7 +1106,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -1118,7 +1118,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -1130,7 +1130,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -1142,7 +1142,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -1154,7 +1154,7 @@ let Answers = [
   },
   {
     Q1: "Living Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -1178,8 +1178,8 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Areca Palm",
@@ -1190,8 +1190,8 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -1202,8 +1202,8 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -1214,8 +1214,8 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Aloe Vera",
@@ -1226,8 +1226,8 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "ZZ Plant",
@@ -1238,8 +1238,8 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -1250,7 +1250,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -1262,7 +1262,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -1274,7 +1274,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -1286,7 +1286,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -1298,7 +1298,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -1310,7 +1310,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -1322,7 +1322,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -1334,7 +1334,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -1346,7 +1346,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -1358,7 +1358,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -1370,7 +1370,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -1382,7 +1382,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -1394,7 +1394,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -1406,7 +1406,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -1418,7 +1418,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -1430,7 +1430,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -1442,7 +1442,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -1454,7 +1454,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -1466,8 +1466,8 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Pentas",
@@ -1478,8 +1478,8 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Pentas",
@@ -1490,8 +1490,8 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Pentas",
@@ -1502,8 +1502,8 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Jade",
@@ -1514,8 +1514,8 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Jade",
@@ -1526,8 +1526,8 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Jade",
@@ -1538,7 +1538,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -1550,7 +1550,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -1562,7 +1562,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -1574,7 +1574,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -1586,7 +1586,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -1598,7 +1598,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -1610,7 +1610,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -1622,7 +1622,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -1634,7 +1634,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -1646,7 +1646,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -1658,7 +1658,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -1670,7 +1670,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -1682,7 +1682,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -1694,7 +1694,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -1706,7 +1706,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -1718,7 +1718,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -1730,7 +1730,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -1742,7 +1742,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -1755,7 +1755,7 @@ let Answers = [
   {
     Q1: "Bedroom",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Table Palm",
@@ -1767,7 +1767,7 @@ let Answers = [
   {
     Q1: "Bedroom",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -1779,7 +1779,7 @@ let Answers = [
   {
     Q1: "Bedroom",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Ruffled Fan Palm",
@@ -1791,7 +1791,7 @@ let Answers = [
   {
     Q1: "Bedroom",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Aglaonema Siam Aurora",
@@ -1803,7 +1803,7 @@ let Answers = [
   {
     Q1: "Bedroom",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Snake Plant",
@@ -1815,7 +1815,7 @@ let Answers = [
   {
     Q1: "Bedroom",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Aglaonema Siam Aurora",
@@ -2042,8 +2042,8 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Areca Palm",
@@ -2054,8 +2054,8 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -2066,8 +2066,8 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -2078,8 +2078,8 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Table Palm",
@@ -2090,8 +2090,8 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Spider Plant",
@@ -2102,8 +2102,8 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Ruffled Fan Palm",
@@ -2114,7 +2114,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -2126,7 +2126,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -2138,7 +2138,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -2150,7 +2150,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -2162,7 +2162,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -2174,7 +2174,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -2186,7 +2186,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -2198,7 +2198,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -2210,7 +2210,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -2222,7 +2222,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -2234,7 +2234,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -2246,7 +2246,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -2258,7 +2258,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -2270,7 +2270,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -2282,7 +2282,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -2294,7 +2294,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -2306,7 +2306,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -2318,7 +2318,7 @@ let Answers = [
   },
   {
     Q1: "Bedroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -2342,8 +2342,8 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Areca Palm",
@@ -2354,8 +2354,8 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -2366,8 +2366,8 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -2378,8 +2378,8 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Aloe Vera",
@@ -2390,8 +2390,8 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "ZZ Plant",
@@ -2402,8 +2402,8 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -2414,7 +2414,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -2426,7 +2426,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -2438,7 +2438,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -2450,7 +2450,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -2462,7 +2462,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -2474,7 +2474,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -2486,7 +2486,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -2498,7 +2498,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -2510,7 +2510,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -2522,7 +2522,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -2534,7 +2534,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -2546,7 +2546,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -2558,7 +2558,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -2570,7 +2570,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -2582,7 +2582,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -2594,7 +2594,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -2606,7 +2606,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -2618,7 +2618,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -2630,8 +2630,8 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Pentas",
@@ -2642,8 +2642,8 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Pentas",
@@ -2654,8 +2654,8 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Pentas",
@@ -2666,8 +2666,8 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Jade",
@@ -2678,8 +2678,8 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Jade",
@@ -2690,8 +2690,8 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Jade",
@@ -2702,7 +2702,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -2714,7 +2714,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -2726,7 +2726,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -2738,7 +2738,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -2750,7 +2750,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -2762,7 +2762,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -2774,7 +2774,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -2786,7 +2786,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -2798,7 +2798,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -2810,7 +2810,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -2822,7 +2822,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -2834,7 +2834,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -2846,7 +2846,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -2858,7 +2858,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -2870,7 +2870,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -2882,7 +2882,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -2894,7 +2894,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -2906,7 +2906,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -2919,7 +2919,7 @@ let Answers = [
   {
     Q1: "Hallway",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Table Palm",
@@ -2931,7 +2931,7 @@ let Answers = [
   {
     Q1: "Hallway",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -2943,7 +2943,7 @@ let Answers = [
   {
     Q1: "Hallway",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Ruffled Fan Palm",
@@ -2955,7 +2955,7 @@ let Answers = [
   {
     Q1: "Hallway",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Aglaonema Siam Aurora",
@@ -2967,7 +2967,7 @@ let Answers = [
   {
     Q1: "Hallway",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Snake Plant",
@@ -2979,7 +2979,7 @@ let Answers = [
   {
     Q1: "Hallway",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Aglaonema Siam Aurora",
@@ -3206,8 +3206,8 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Areca Palm",
@@ -3218,8 +3218,8 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -3230,8 +3230,8 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -3242,8 +3242,8 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Table Palm",
@@ -3254,8 +3254,8 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Spider Plant",
@@ -3266,8 +3266,8 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Ruffled Fan Palm",
@@ -3278,7 +3278,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -3290,7 +3290,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -3302,7 +3302,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -3314,7 +3314,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -3326,7 +3326,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -3338,7 +3338,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -3350,7 +3350,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -3362,7 +3362,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -3374,7 +3374,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -3386,7 +3386,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -3398,7 +3398,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -3410,7 +3410,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -3422,7 +3422,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -3434,7 +3434,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -3446,7 +3446,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -3458,7 +3458,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -3470,7 +3470,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -3482,7 +3482,7 @@ let Answers = [
   },
   {
     Q1: "Hallway",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -3506,8 +3506,8 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Areca Palm",
@@ -3518,8 +3518,8 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -3530,8 +3530,8 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -3542,8 +3542,8 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Aloe Vera",
@@ -3554,8 +3554,8 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "ZZ Plant",
@@ -3566,8 +3566,8 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -3578,7 +3578,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -3590,7 +3590,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -3602,7 +3602,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -3614,7 +3614,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -3626,7 +3626,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -3638,7 +3638,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -3650,7 +3650,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -3662,7 +3662,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -3674,7 +3674,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -3686,7 +3686,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -3698,7 +3698,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -3710,7 +3710,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -3722,7 +3722,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -3734,7 +3734,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -3746,7 +3746,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -3758,7 +3758,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -3770,7 +3770,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -3782,7 +3782,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -3794,8 +3794,8 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Pentas",
@@ -3806,8 +3806,8 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Pentas",
@@ -3818,8 +3818,8 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Pentas",
@@ -3830,8 +3830,8 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Jade",
@@ -3842,8 +3842,8 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Jade",
@@ -3854,8 +3854,8 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Jade",
@@ -3866,7 +3866,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -3878,7 +3878,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -3890,7 +3890,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -3902,7 +3902,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -3914,7 +3914,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -3926,7 +3926,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -3938,7 +3938,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -3950,7 +3950,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -3962,7 +3962,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -3974,7 +3974,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -3986,7 +3986,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -3998,7 +3998,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -4010,7 +4010,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -4022,7 +4022,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -4034,7 +4034,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -4046,7 +4046,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -4058,7 +4058,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -4070,7 +4070,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -4083,7 +4083,7 @@ let Answers = [
   {
     Q1: "Kitchen",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Table Palm",
@@ -4095,7 +4095,7 @@ let Answers = [
   {
     Q1: "Kitchen",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -4107,7 +4107,7 @@ let Answers = [
   {
     Q1: "Kitchen",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Ruffled Fan Palm",
@@ -4119,7 +4119,7 @@ let Answers = [
   {
     Q1: "Kitchen",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Aglaonema Siam Aurora",
@@ -4131,7 +4131,7 @@ let Answers = [
   {
     Q1: "Kitchen",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Snake Plant",
@@ -4143,7 +4143,7 @@ let Answers = [
   {
     Q1: "Kitchen",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Aglaonema Siam Aurora",
@@ -4370,8 +4370,8 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Areca Palm",
@@ -4382,8 +4382,8 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -4394,8 +4394,8 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -4406,8 +4406,8 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Table Palm",
@@ -4418,8 +4418,8 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Spider Plant",
@@ -4430,8 +4430,8 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Ruffled Fan Palm",
@@ -4442,7 +4442,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -4454,7 +4454,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -4466,7 +4466,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -4478,7 +4478,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -4490,7 +4490,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -4502,7 +4502,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -4514,7 +4514,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -4526,7 +4526,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -4538,7 +4538,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -4550,7 +4550,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -4562,7 +4562,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -4574,7 +4574,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -4586,7 +4586,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -4598,7 +4598,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -4610,7 +4610,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -4622,7 +4622,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -4634,7 +4634,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -4646,7 +4646,7 @@ let Answers = [
   },
   {
     Q1: "Kitchen",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -4670,8 +4670,8 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Areca Palm",
@@ -4682,8 +4682,8 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -4694,8 +4694,8 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -4706,8 +4706,8 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Aloe Vera",
@@ -4718,8 +4718,8 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "ZZ Plant",
@@ -4730,8 +4730,8 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -4742,7 +4742,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -4754,7 +4754,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -4766,7 +4766,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -4778,7 +4778,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -4790,7 +4790,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -4802,7 +4802,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -4814,7 +4814,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -4826,7 +4826,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -4838,7 +4838,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -4850,7 +4850,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -4862,7 +4862,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -4874,7 +4874,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -4886,7 +4886,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -4898,7 +4898,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -4910,7 +4910,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -4922,7 +4922,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -4934,7 +4934,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -4946,7 +4946,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -4958,8 +4958,8 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Pentas",
@@ -4970,8 +4970,8 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Pentas",
@@ -4982,8 +4982,8 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Pentas",
@@ -4994,8 +4994,8 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Jade",
@@ -5006,8 +5006,8 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Jade",
@@ -5018,8 +5018,8 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Jade",
@@ -5030,7 +5030,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -5042,7 +5042,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -5054,7 +5054,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -5066,7 +5066,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -5078,7 +5078,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -5090,7 +5090,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -5102,7 +5102,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -5114,7 +5114,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -5126,7 +5126,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -5138,7 +5138,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -5150,7 +5150,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -5162,7 +5162,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -5174,7 +5174,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -5186,7 +5186,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -5198,7 +5198,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -5210,7 +5210,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -5222,7 +5222,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -5234,7 +5234,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -5247,7 +5247,7 @@ let Answers = [
   {
     Q1: "Child's Room",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Table Palm",
@@ -5259,7 +5259,7 @@ let Answers = [
   {
     Q1: "Child's Room",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -5271,7 +5271,7 @@ let Answers = [
   {
     Q1: "Child's Room",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Ruffled Fan Palm",
@@ -5283,7 +5283,7 @@ let Answers = [
   {
     Q1: "Child's Room",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Aglaonema Siam Aurora",
@@ -5295,7 +5295,7 @@ let Answers = [
   {
     Q1: "Child's Room",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Snake Plant",
@@ -5307,7 +5307,7 @@ let Answers = [
   {
     Q1: "Child's Room",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Aglaonema Siam Aurora",
@@ -5534,8 +5534,8 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Areca Palm",
@@ -5546,8 +5546,8 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -5558,8 +5558,8 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -5570,8 +5570,8 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Table Palm",
@@ -5582,8 +5582,8 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Spider Plant",
@@ -5594,8 +5594,8 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Ruffled Fan Palm",
@@ -5606,7 +5606,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -5618,7 +5618,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -5630,7 +5630,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -5642,7 +5642,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -5654,7 +5654,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -5666,7 +5666,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -5678,7 +5678,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -5690,7 +5690,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -5702,7 +5702,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -5714,7 +5714,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -5726,7 +5726,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -5738,7 +5738,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -5750,7 +5750,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -5762,7 +5762,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -5774,7 +5774,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -5786,7 +5786,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -5798,7 +5798,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -5810,7 +5810,7 @@ let Answers = [
   },
   {
     Q1: "Child's Room",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -5834,8 +5834,8 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Areca Palm",
@@ -5846,8 +5846,8 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -5858,8 +5858,8 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -5870,8 +5870,8 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Aloe Vera",
@@ -5882,8 +5882,8 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "ZZ Plant",
@@ -5894,8 +5894,8 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -5906,7 +5906,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -5918,7 +5918,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -5930,7 +5930,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -5942,7 +5942,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -5954,7 +5954,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -5966,7 +5966,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -5978,7 +5978,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -5990,7 +5990,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -6002,7 +6002,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -6014,7 +6014,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -6026,7 +6026,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -6038,7 +6038,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -6050,7 +6050,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -6062,7 +6062,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -6074,7 +6074,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -6086,7 +6086,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -6098,7 +6098,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -6110,7 +6110,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -6122,8 +6122,8 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Pentas",
@@ -6134,8 +6134,8 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Pentas",
@@ -6146,8 +6146,8 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Pentas",
@@ -6158,8 +6158,8 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Jade",
@@ -6170,8 +6170,8 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Jade",
@@ -6182,8 +6182,8 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Jade",
@@ -6194,7 +6194,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -6206,7 +6206,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -6218,7 +6218,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -6230,7 +6230,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -6242,7 +6242,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -6254,7 +6254,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -6266,7 +6266,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -6278,7 +6278,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -6290,7 +6290,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -6302,7 +6302,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -6314,7 +6314,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -6326,7 +6326,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -6338,7 +6338,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -6350,7 +6350,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -6362,7 +6362,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -6374,7 +6374,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -6386,7 +6386,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -6398,7 +6398,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -6411,7 +6411,7 @@ let Answers = [
   {
     Q1: "Bathroom",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Table Palm",
@@ -6423,7 +6423,7 @@ let Answers = [
   {
     Q1: "Bathroom",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -6435,7 +6435,7 @@ let Answers = [
   {
     Q1: "Bathroom",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Ruffled Fan Palm",
@@ -6447,7 +6447,7 @@ let Answers = [
   {
     Q1: "Bathroom",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Aglaonema Siam Aurora",
@@ -6459,7 +6459,7 @@ let Answers = [
   {
     Q1: "Bathroom",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Snake Plant",
@@ -6471,7 +6471,7 @@ let Answers = [
   {
     Q1: "Bathroom",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Aglaonema Siam Aurora",
@@ -6698,8 +6698,8 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Areca Palm",
@@ -6710,8 +6710,8 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -6722,8 +6722,8 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -6734,8 +6734,8 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Table Palm",
@@ -6746,8 +6746,8 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Spider Plant",
@@ -6758,8 +6758,8 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Ruffled Fan Palm",
@@ -6770,7 +6770,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -6782,7 +6782,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -6794,7 +6794,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -6806,7 +6806,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -6818,7 +6818,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -6830,7 +6830,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -6842,7 +6842,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -6854,7 +6854,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -6866,7 +6866,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -6878,7 +6878,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -6890,7 +6890,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -6902,7 +6902,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -6914,7 +6914,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -6926,7 +6926,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -6938,7 +6938,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -6950,7 +6950,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -6962,7 +6962,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -6974,7 +6974,7 @@ let Answers = [
   },
   {
     Q1: "Bathroom",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -6998,8 +6998,8 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Areca Palm",
@@ -7010,8 +7010,8 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -7022,8 +7022,8 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -7034,8 +7034,8 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Aloe Vera",
@@ -7046,8 +7046,8 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "ZZ Plant",
@@ -7058,8 +7058,8 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -7070,7 +7070,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -7082,7 +7082,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -7094,7 +7094,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -7106,7 +7106,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -7118,7 +7118,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -7130,7 +7130,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -7142,7 +7142,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -7154,7 +7154,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -7166,7 +7166,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -7178,7 +7178,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -7190,7 +7190,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -7202,7 +7202,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -7214,7 +7214,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -7226,7 +7226,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -7238,7 +7238,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -7250,7 +7250,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -7262,7 +7262,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -7274,7 +7274,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -7286,8 +7286,8 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Pentas",
@@ -7298,8 +7298,8 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Pentas",
@@ -7310,8 +7310,8 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Pentas",
@@ -7322,8 +7322,8 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Jade",
@@ -7334,8 +7334,8 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Jade",
@@ -7346,8 +7346,8 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Jade",
@@ -7358,7 +7358,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -7370,7 +7370,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -7382,7 +7382,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -7394,7 +7394,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -7406,7 +7406,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -7418,7 +7418,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -7430,7 +7430,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -7442,7 +7442,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -7454,7 +7454,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -7466,7 +7466,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -7478,7 +7478,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -7490,7 +7490,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -7502,7 +7502,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -7514,7 +7514,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -7526,7 +7526,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -7538,7 +7538,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -7550,7 +7550,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -7562,7 +7562,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -7575,7 +7575,7 @@ let Answers = [
   {
     Q1: "Office",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Table Palm",
@@ -7587,7 +7587,7 @@ let Answers = [
   {
     Q1: "Office",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -7599,7 +7599,7 @@ let Answers = [
   {
     Q1: "Office",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Ruffled Fan Palm",
@@ -7611,7 +7611,7 @@ let Answers = [
   {
     Q1: "Office",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Aglaonema Siam Aurora",
@@ -7623,7 +7623,7 @@ let Answers = [
   {
     Q1: "Office",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Snake Plant",
@@ -7635,7 +7635,7 @@ let Answers = [
   {
     Q1: "Office",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Aglaonema Siam Aurora",
@@ -7862,8 +7862,8 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Areca Palm",
@@ -7874,8 +7874,8 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -7886,8 +7886,8 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -7898,8 +7898,8 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Table Palm",
@@ -7910,8 +7910,8 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Spider Plant",
@@ -7922,8 +7922,8 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Ruffled Fan Palm",
@@ -7934,7 +7934,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -7946,7 +7946,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -7958,7 +7958,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -7970,7 +7970,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -7982,7 +7982,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -7994,7 +7994,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -8006,7 +8006,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -8018,7 +8018,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -8030,7 +8030,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -8042,7 +8042,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -8054,7 +8054,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -8066,7 +8066,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -8078,7 +8078,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -8090,7 +8090,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -8102,7 +8102,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -8114,7 +8114,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -8126,7 +8126,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -8138,7 +8138,7 @@ let Answers = [
   },
   {
     Q1: "Office",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -8162,8 +8162,8 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Areca Palm",
@@ -8174,8 +8174,8 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -8186,8 +8186,8 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -8198,8 +8198,8 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Aloe Vera",
@@ -8210,8 +8210,8 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "ZZ Plant",
@@ -8222,8 +8222,8 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -8234,7 +8234,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -8246,7 +8246,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -8258,7 +8258,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -8270,7 +8270,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -8282,7 +8282,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -8294,7 +8294,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -8306,7 +8306,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -8318,7 +8318,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -8330,7 +8330,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -8342,7 +8342,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -8354,7 +8354,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -8366,7 +8366,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -8378,7 +8378,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -8390,7 +8390,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -8402,7 +8402,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -8414,7 +8414,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -8426,7 +8426,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -8438,7 +8438,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -8450,8 +8450,8 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Chrysanthemum",
@@ -8462,8 +8462,8 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Pentas",
@@ -8474,8 +8474,8 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Pentas",
@@ -8486,8 +8486,8 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Jade",
@@ -8498,8 +8498,8 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Jade",
@@ -8510,8 +8510,8 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Jade",
@@ -8522,7 +8522,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -8534,7 +8534,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -8546,7 +8546,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -8558,7 +8558,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -8570,7 +8570,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -8582,7 +8582,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -8594,7 +8594,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -8606,7 +8606,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -8618,7 +8618,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -8630,7 +8630,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -8642,7 +8642,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -8654,7 +8654,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -8666,7 +8666,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -8678,7 +8678,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -8690,7 +8690,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -8702,7 +8702,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -8714,7 +8714,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -8726,7 +8726,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -8739,7 +8739,7 @@ let Answers = [
   {
     Q1: "Balcony",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Table Palm",
@@ -8751,7 +8751,7 @@ let Answers = [
   {
     Q1: "Balcony",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -8763,7 +8763,7 @@ let Answers = [
   {
     Q1: "Balcony",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Ruffled Fan Palm",
@@ -8775,7 +8775,7 @@ let Answers = [
   {
     Q1: "Balcony",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Aglaonema Siam Aurora",
@@ -8787,7 +8787,7 @@ let Answers = [
   {
     Q1: "Balcony",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Snake Plant",
@@ -8799,7 +8799,7 @@ let Answers = [
   {
     Q1: "Balcony",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Aglaonema Siam Aurora",
@@ -9026,8 +9026,8 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Areca Palm",
@@ -9038,8 +9038,8 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -9050,8 +9050,8 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -9062,8 +9062,8 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Table Palm",
@@ -9074,8 +9074,8 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Spider Plant",
@@ -9086,8 +9086,8 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Ruffled Fan Palm",
@@ -9098,7 +9098,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -9110,7 +9110,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -9122,7 +9122,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -9134,7 +9134,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -9146,7 +9146,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -9158,7 +9158,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -9170,7 +9170,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -9182,7 +9182,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -9194,7 +9194,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -9206,7 +9206,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -9218,7 +9218,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -9230,7 +9230,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -9242,7 +9242,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -9254,7 +9254,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -9266,7 +9266,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -9278,7 +9278,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -9290,7 +9290,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -9302,7 +9302,7 @@ let Answers = [
   },
   {
     Q1: "Balcony",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -9326,8 +9326,8 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Areca Palm",
@@ -9338,8 +9338,8 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -9350,8 +9350,8 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -9362,8 +9362,8 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Aloe Vera",
@@ -9374,8 +9374,8 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "ZZ Plant",
@@ -9386,8 +9386,8 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Indirect or filtered sunlight throughout the day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -9398,7 +9398,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -9410,7 +9410,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -9422,7 +9422,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -9434,7 +9434,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -9446,7 +9446,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -9458,7 +9458,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -9470,7 +9470,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -9482,7 +9482,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -9494,7 +9494,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -9506,7 +9506,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -9518,7 +9518,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -9530,7 +9530,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -9542,7 +9542,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -9554,7 +9554,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -9566,7 +9566,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -9578,7 +9578,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -9590,7 +9590,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -9602,7 +9602,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Indirect or filtered sunlight throughout the day",
+    Q2: "Indirect/ Filtered Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -9614,8 +9614,8 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Pentas",
@@ -9626,8 +9626,8 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Pentas",
@@ -9638,8 +9638,8 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Pentas",
@@ -9650,8 +9650,8 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Jade",
@@ -9662,8 +9662,8 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Jade",
@@ -9674,8 +9674,8 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Bright direct sunlight 4-5 hours per day",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "Direct Sunlight 4-5 hours per day",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Jade",
@@ -9686,7 +9686,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -9698,7 +9698,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -9710,7 +9710,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -9722,7 +9722,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -9734,7 +9734,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -9746,7 +9746,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -9758,7 +9758,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -9770,7 +9770,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -9782,7 +9782,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -9794,7 +9794,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -9806,7 +9806,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -9818,7 +9818,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -9830,7 +9830,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -9842,7 +9842,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -9854,7 +9854,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -9866,7 +9866,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -9878,7 +9878,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -9890,7 +9890,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "Bright direct sunlight 4-5 hours per day",
+    Q2: "Direct Sunlight 4-5 hours per day",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -9903,7 +9903,7 @@ let Answers = [
   {
     Q1: "Outdoor Garden",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Table Palm",
@@ -9915,7 +9915,7 @@ let Answers = [
   {
     Q1: "Outdoor Garden",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -9927,7 +9927,7 @@ let Answers = [
   {
     Q1: "Outdoor Garden",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Ruffled Fan Palm",
@@ -9939,7 +9939,7 @@ let Answers = [
   {
     Q1: "Outdoor Garden",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Aglaonema Siam Aurora",
@@ -9951,7 +9951,7 @@ let Answers = [
   {
     Q1: "Outdoor Garden",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Snake Plant",
@@ -9963,7 +9963,7 @@ let Answers = [
   {
     Q1: "Outdoor Garden",
     Q2: "Not a lot of natural sunlight",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Aglaonema Siam Aurora",
@@ -10190,8 +10190,8 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Yes",
     P1: "Areca Palm",
@@ -10202,8 +10202,8 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "No",
     P1: "Spider Plant",
@@ -10214,8 +10214,8 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "Yes",
     Q5: "Sometimes",
     P1: "Rhapis Lady Palm",
@@ -10226,8 +10226,8 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Yes",
     P1: "Table Palm",
@@ -10238,8 +10238,8 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "No",
     P1: "Spider Plant",
@@ -10250,8 +10250,8 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "I’m not sure",
-    Q3: "Total plant savant and experienced plant-parent",
+    Q2: "I am not sure",
+    Q3: "Experienced plant parent",
     Q4: "No",
     Q5: "Sometimes",
     P1: "Ruffled Fan Palm",
@@ -10262,7 +10262,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Yes",
@@ -10274,7 +10274,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "No",
@@ -10286,7 +10286,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -10298,7 +10298,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Yes",
@@ -10310,7 +10310,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "No",
@@ -10322,7 +10322,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Green thumb with few houseplants",
     Q4: "No",
     Q5: "Sometimes",
@@ -10334,7 +10334,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Yes",
@@ -10346,7 +10346,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "No",
@@ -10358,7 +10358,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -10370,7 +10370,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Yes",
@@ -10382,7 +10382,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "No",
@@ -10394,7 +10394,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "First time budding plant mom/dad",
     Q4: "No",
     Q5: "Sometimes",
@@ -10406,7 +10406,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Yes",
@@ -10418,7 +10418,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "No",
@@ -10430,7 +10430,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "Yes",
     Q5: "Sometimes",
@@ -10442,7 +10442,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Yes",
@@ -10454,7 +10454,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "No",
@@ -10466,7 +10466,7 @@ let Answers = [
   },
   {
     Q1: "Outdoor Garden",
-    Q2: "I’m not sure",
+    Q2: "I am not sure",
     Q3: "Most of my plants are dead :(",
     Q4: "No",
     Q5: "Sometimes",
@@ -10918,17 +10918,17 @@ var object = {
 };
 
 var object1 = {
-  "What kind of light does this area get?": {
-    "Bright direct sunlight 4-5 hours per day": "",
-    "Indirect or filtered sunlight throughout the day": "",
+  "How much light does this area receive?": {
+    "Direct Sunlight 4-5 hours per day": "",
+    "Indirect/ Filtered Sunlight 4-5 hours per day": "",
     "Not a lot of natural sunlight": "",
-    "I’m not sure": "",
+    "I am not sure": "",
   },
 };
 
 var object2 = {
-  "What's your experience with plants?": {
-    "Total plant savant and experienced plant-parent": "",
+  "How good a plant parent are you ?": {
+    "Experienced plant parent": "",
     "Green thumb with few houseplants": "",
     "First time budding plant mom/dad": "",
     "Most of my plants are dead :(": "",
@@ -10961,6 +10961,7 @@ function clicklistner(e) {
   arr.push(e.target.dataset.ans);
 
   if (count === 6) {
+    document.getElementById("navbar").style.display = "none"
     document.getElementById("h1").remove();
     image.remove();
     document.getElementById("row").remove();
@@ -11028,23 +11029,23 @@ function buttons() {
   for (let que in n[count]) {
     if (count === 0) {
       heading.innerHTML = Object.keys(object)[0];
-      image.src = "./img/pexels-ylanite-koppens-796620.jpg";
+      image.src = "./img/krystal-black-V5OEpF12pzw-unsplash.jpg";
     } else if (count === 1) {
       heading.innerHTML = Object.keys(object1)[0];
       image.src =
-        "https://image.freepik.com/free-photo/pepper-face-plant-small-pot_53876-94408.jpg";
+        "./img/jon-nathon-stebbe-paydk0JcIOQ-unsplash.jpg";
     } else if (count === 2) {
       heading.innerHTML = Object.keys(object2)[0];
       image.src =
-        "https://image.freepik.com/free-photo/snake-plant-white-pot_53876-95437.jpg";
+        "./img/eco-warrior-princess-TsOeGUwWzWo-unsplash (1).jpg";
     } else if (count === 3) {
       heading.innerHTML = Object.keys(object3)[0];
       image.src =
-        "https://images.pexels.com/photos/776656/pexels-photo-776656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940";
+        "./img/chewy-KIqJfzbII9w-unsplash (1).jpg";
     } else if (count === 4) {
       heading.innerHTML = Object.keys(object4)[0];
       image.src =
-        "https://image.freepik.com/free-photo/green-houseplant-glass-jar_181624-13295.jpg";
+        "./img/johan-mouchet-Z95viY3WaZs-unsplash (1).jpg";
     }
     let button = document.createElement("button");
     button.classList.add("btn");
@@ -11058,6 +11059,10 @@ function buttons() {
   count++;
 }
 buttons();
+
+if(screen.width < 700){
+  document.getElementById("exampleModalLabel").innerHTML = "We have share the list with you on your WhatsApp no. <br> Scroll down to check the curated list.";
+}
 
 // modal section here
 if (count === 6) {
