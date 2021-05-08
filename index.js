@@ -11060,9 +11060,11 @@ function buttons() {
 }
 buttons();
 document.getElementById("cross").style.display = "none"
+document.getElementById("scroll-down").style.display = "none"
 if(screen.width < 700){
-  document.getElementById("exampleModalLabel").innerHTML = "We have share the list with you on your WhatsApp no. <br> Scroll down to check the curated list.";
+  document.getElementById("exampleModalLabel").innerHTML = "We have share the list with you on your WhatsApp no.";
   document.getElementById("cross").style.display = "block"
+  document.getElementById("scroll-down").style.display = "block"
 }
 
 // modal section here
