@@ -10961,7 +10961,7 @@ function clicklistner(e) {
   arr.push(e.target.dataset.ans);
 
   if (count === 6) {
-    document.getElementById("navbar").style.display = "none"
+    // document.getElementById("navbar").style.display = "none"
     document.getElementById("h1").remove();
     image.remove();
     document.getElementById("row").remove();
@@ -11061,8 +11061,10 @@ function buttons() {
 buttons();
 document.getElementById("cross").style.display = "none"
 document.getElementById("scroll-down").style.display = "none"
+document.getElementById("logo-modal").style.display = "none"
 if(screen.width < 700){
-  document.getElementById("exampleModalLabel").innerHTML = "We have share the list with you on your WhatsApp no.";
+  document.getElementById("logo-modal").style.display = "block"
+  document.getElementById("exampleModalLabel").style.display = "none"
   document.getElementById("cross").style.display = "block"
   document.getElementById("scroll-down").style.display = "block"
 }
