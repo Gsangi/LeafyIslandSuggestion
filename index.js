@@ -11116,3 +11116,12 @@ function phonenumber(inputtxt)
         return false;
         }
 }
+
+
+let btnshow = document.getElementById("submitButton");
+let input = document.getElementById("exampleInputEmail1");
+document.getElementById("submitButton").disabled = true
+input.addEventListener('keyup', () => {
+ if(input.value.length > 9) btnshow.disabled = false
+ else btnshow.disabled = true
+})
