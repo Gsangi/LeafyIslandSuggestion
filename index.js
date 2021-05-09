@@ -10965,7 +10965,7 @@ function clicklistner(e) {
     document.getElementById("h1").remove();
     image.remove();
     document.getElementById("row").remove();
-    secondpage.style.display = "block";
+    secondpage.style.display = "flex";
     let newArray = Answers.find(
       (element) =>
         element.Q1 === arr[0] &&
