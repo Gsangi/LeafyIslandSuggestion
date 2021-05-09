@@ -139,7 +139,6 @@
               class="form-control"
               id="exampleInputEmail1"
               aria-describedby="basic-addon1"
-              pattern="/(6|7|8|9)\d{9}/"
               placeholder="Enter your Whatsapp Number"
             />
             </div>
@@ -161,22 +160,6 @@
               <a href="https://leafyisland.com/" class="btn btn-light">
                 Take me back to Leafy Island
               </a>
-
-              <script>
-                let input = document.getElementById("exampleInputEmail1");
-                let button = document.getElementById("submitButton");
-                button.disabled = true;
-                input.addEventListener("change", stateHandle);
-                function stateHandle() {
-                  if (
-                    document.getElementById("exampleInputEmail1").value === ""
-                  ) {
-                    button.disabled = true;
-                  } else {
-                    button.disabled = false;
-                  }
-                }
-              </script>
             </div>
           </div>
         </div>
