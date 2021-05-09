@@ -32,8 +32,16 @@
   object-fit: cover;
 }
 
+.navbar-brand{
+  padding: 0; 
+  margin-left: 20px
+}
+
 /* Media Queries */
 @media only screen and (max-width: 768px) {
+  .navbar-brand{
+    margin-left: 0px;
+  }
   .first-section {
     position: absolute;
     z-index: 10;
