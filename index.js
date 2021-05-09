@@ -10961,7 +10961,7 @@ function clicklistner(e) {
   arr.push(e.target.dataset.ans);
 
   if (count === 6) {
-    // document.getElementById("navbar").style.display = "none"
+    document.getElementById("navbar").style.display = "none"
     document.getElementById("h1").remove();
     image.remove();
     document.getElementById("row").remove();
