@@ -2,10 +2,6 @@
   margin: 0;
 }
 
-body{
-  overflow: hidden;
-}
-
 .first-section {
   font-family: "Roboto", sans-serif;
   height: 100vh;
