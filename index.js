@@ -11103,4 +11103,16 @@ function sendPhoneNumber(form) {
     });
 }
 
-
+function phonenumber(inputtxt)
+{
+  var phoneno = /(6|7|8|9)\d{9}/;
+  if((inputtxt.value.match(phoneno)))
+        {
+      return true;
+        }
+      else
+        {
+        alert("message");
+        return false;
+        }
+}

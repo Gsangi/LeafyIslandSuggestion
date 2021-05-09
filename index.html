@@ -30,7 +30,7 @@
       ;
       id="navbar"
       ;
-      style="background: white; padding: 0px;"
+      style="background: white; padding: 0px"
     >
       <a class="navbar-brand" href="https://leafyisland.com/">
         <img
@@ -125,22 +125,24 @@
       <div class="content">
         <div class="row">
           <div class="col-10 col-sm-8 mx-auto form-group">
-            <h3 style="text-align: left;">READY TO MEET YOU PERFECT PLANT?</h3>
+            <h3 style="text-align: left">READY TO MEET YOU PERFECT PLANT?</h3>
             <p style="text-align: start">
               We have curated a list of 5 plants that are best suited for you.
               Our botanist will send this to you on your Whatsapp.
             </p>
-            <input
-              onkeypress="EmailValidation()"
-              onchange="EmailValidation()"
+            <div class="input-group mb-3">
+              <span class="input-group-text" id="basic-addon1">+91</span>
+              <input
               type="tel"
               name="phone"
-              maxlength="13"
+              maxlength="10"
               class="form-control"
               id="exampleInputEmail1"
-              aria-describedby="emailHelp"
+              aria-describedby="basic-addon1"
+              pattern="/(6|7|8|9)\d{9}/"
               placeholder="Enter your Whatsapp Number"
             />
+            </div>
             <small id="emailHelp" class="form-text text-muted"
               >We pinky promise to never spam your number!
             </small>
@@ -156,13 +158,10 @@
               >
                 SUBMIT
               </button>
-                <a
-                href="https://leafyisland.com/"
-                class="btn btn-light"
-              >
-                Take me back to leafyisland
-            </a>
-              
+              <a href="https://leafyisland.com/" class="btn btn-light">
+                Take me back to Leafy Island
+              </a>
+
               <script>
                 let input = document.getElementById("exampleInputEmail1");
                 let button = document.getElementById("submitButton");
@@ -182,13 +181,6 @@
           </div>
         </div>
       </div>
-      <a
-        href="https://api.whatsapp.com/send?phone=+919024965225&text=Hello Leafy Island!"
-        class="float"
-        target="_blank"
-      >
-        <i class="fa fa-whatsapp my-float"></i>
-      </a>
     </div>
 
     <!-- Modal section -->
@@ -205,7 +197,11 @@
             <h5 class="modal-title" id="exampleModalLabel">
               Top 5 Plants Recommeded By Our Plant Experts
             </h5>
-            <a class="navbar-brand" href="https://leafyisland.com/" id="logo-modal">
+            <a
+              class="navbar-brand"
+              href="https://leafyisland.com/"
+              id="logo-modal"
+            >
               <img
                 src="./img/logo_1.png"
                 width="auto"
