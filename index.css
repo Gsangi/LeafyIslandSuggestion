@@ -142,28 +142,6 @@
   font-family: calibri, sans-serif;
 }
 
-
-/* whatsapp section add here */
-.float{
-	position:fixed;
-	width:60px;
-	height:60px;
-	bottom:40px;
-	right:40px;
-	background-color:#25d366;
-	color:#FFF;
-	border-radius:50px;
-	text-align:center;
-  font-size:30px;
-	box-shadow: 2px 2px 3px #999;
-  z-index:100;
-}
-
-.my-float{
-	margin-top:16px;
-}
-
-
 .navbar .navbar-nav .nav-link {
   color: #000000;
   font-size: 1.1em;
