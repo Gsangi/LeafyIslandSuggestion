@@ -11029,23 +11029,23 @@ function buttons() {
   for (let que in n[count]) {
     if (count === 0) {
       heading.innerHTML = Object.keys(object)[0];
-      image.src = "./img/krystal-black-V5OEpF12pzw-unsplash.jpg";
+      image.src = "https://images.unsplash.com/photo-1601084881623-cdf9a8ea242c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80";
     } else if (count === 1) {
       heading.innerHTML = Object.keys(object1)[0];
       image.src =
-        "./img/jon-nathon-stebbe-paydk0JcIOQ-unsplash.jpg";
+        "https://images.unsplash.com/photo-1585412727339-54e4bae3bbf9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80";
     } else if (count === 2) {
       heading.innerHTML = Object.keys(object2)[0];
       image.src =
-        "./img/eco-warrior-princess-TsOeGUwWzWo-unsplash (1).jpg";
+        "https://images.unsplash.com/photo-1523301551780-cd17359a95d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80";
     } else if (count === 3) {
       heading.innerHTML = Object.keys(object3)[0];
       image.src =
-        "https://images.unsplash.com/photo-1601758123927-4f7acc7da589?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80";
+        "https://images.unsplash.com/photo-1601758123927-4f7acc7da589?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80";
     } else if (count === 4) {
       heading.innerHTML = Object.keys(object4)[0];
       image.src =
-        "./img/johan-mouchet-Z95viY3WaZs-unsplash (1).jpg";
+        "https://images.unsplash.com/photo-1495562569060-2eec283d3391?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80";
     }
     let button = document.createElement("button");
     button.classList.add("btn");
