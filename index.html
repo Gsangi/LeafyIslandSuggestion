@@ -170,29 +170,33 @@
               We have curated a list of 5 plants that are best suited for you.
               Our botanist will send this to you on your Whatsapp.
             </p>
-            <div class="input-group mb-3">
-              <span class="input-group-text" id="basic-addon1">+91</span>
-              <input
-                type="tel"
-                name="phone"
-                maxlength="10"
-                class="form-control"
-                id="exampleInputEmail1"
-                aria-describedby="basic-addon1"
-                placeholder="Enter your Whatsapp Number"
-              />
+            <div style="display: flex;">
+              <div class="input-group mb-3">
+                <span class="input-group-text" id="basic-addon1">+91</span>
+                <input
+                  type="tel"
+                  name="phone"
+                  maxlength="10"
+                  class="form-control"
+                  id="exampleInputEmail1"
+                  aria-describedby="basic-addon1"
+                  placeholder="Enter your Whatsapp Number"
+                />
+                
+              </div>
               <button
-                style="margin-left: 10px"
-                type="button"
-                class="btn btn-dark submitButton"
-                id="submitButton"
-                onclick="sendPhoneNumber(this)"
-                data-bs-toggle="modal"
-                data-bs-target="#exampleModal"
-              >
-                SUBMIT
-              </button>
+                  style="margin-left: 10px; margin-bottom: 1rem;"
+                  type="button"
+                  class="btn btn-dark submitButton"
+                  id="submitButton"
+                  onclick="sendPhoneNumber(this)"
+                  data-bs-toggle="modal"
+                  data-bs-target="#exampleModal"
+                >
+                  SUBMIT
+                </button>
             </div>
+           
             <small id="emailHelp" class="form-text text-muted"
               >We pinky promise to never spam your number!
             </small>
