@@ -32,20 +32,20 @@
   object-fit: cover;
 }
 
-.navbar-brand{
-  padding: 0; 
-  margin-left: 20px
+.navbar-brand {
+  padding: 0;
+  margin-left: 20px;
 }
 
 /* Media Queries */
 @media only screen and (max-width: 768px) {
-  .modal_header{
-    padding: 5px!important;
+  .modal_header {
+    padding: 5px !important;
   }
-  .btn-close{
-    margin-right: 3px!important;
+  .btn-close {
+    margin-right: 3px !important;
   }
-  .navbar-brand{
+  .navbar-brand {
     margin-left: 0px;
   }
   .first-section {
@@ -107,38 +107,35 @@
   }
 }
 
-
-
-.modal-body{
-    display: flex;
-    justify-content: center;
+.modal-body {
+  display: flex;
+  justify-content: center;
 }
 
-
-.card{
+.card {
   margin: 0.35rem;
   padding: 1.2rem;
 }
 
-.card-group{
+.card-group {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.card-body{
+.card-body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  padding: 1rem 0rem 0rem!important;
+  padding: 1rem 0rem 0rem !important;
 }
 
-.card-title{
+.card-title {
   text-align: center;
   margin-bottom: 1rem;
 }
 
-.modal-title{
+.modal-title {
   font-family: calibri, sans-serif;
 }
 
@@ -159,7 +156,7 @@
   background-color: #000000;
   color: transparent;
   width: 0%;
-  content: '.';
+  content: ".";
   height: 3px;
 }
 .navbar .navbar-nav .nav-link:hover::after {
@@ -168,8 +165,79 @@
 
 .site-content-wrapper {
   overflow-y: hidden;
- }
+}
 
-.nav-item{
+.nav-item {
   margin: 0 10px 0 10px;
+}
+
+.wrapper {
+  background-image: url("./img/image.png");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.start-container {
+  position: relative;
+  top: 50%;
+  left: 25%;
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+}
+
+.start-heading {
+  font-size: 28px;
+  line-height: 36px;
+  letter-spacing: 0.1rem;
+}
+
+.start-button-section {
+  display: flex;
+  gap: 15px;
+  align-items: baseline;
+}
+
+.start-button {
+  border-radius: 5px;
+  border: 0;
+  width: 100px;
+  background-color: #e76262;
+  color: white;
+  height: 50px;
+}
+
+.mobile-begin{
+  display: none!important;
+}
+
+@media only screen and (max-width: 768px) {
+  .start-container {
+    position: relative;
+    top: 40%;
+    left: 0%;
+    text-align: initial;
+    margin-left: 15px;
+  }
+
+  .start-press {
+    display: none;
+  }
+  #start-button{
+    display: none;
+  }
+
+  .start-min{
+    display: none;
+  }
+  #mobile-begin{
+    display: flex!important;
+  }
 }

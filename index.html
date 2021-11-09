@@ -25,27 +25,61 @@
     <title>Leafy Island Recommendation</title>
   </head>
   <body>
-    <nav
-      class="
-        navbar navbar-expand-lg navbar-light
-        fixed-top
-        border border-top-0 border-left-0 border-right-0
-      "
-      ;
-      id="navbar"
-      ;
-      style="background: white; padding: 0px"
-    >
-      <a class="navbar-brand" href="https://leafyisland.com/">
-        <img
-          src="./img/logo_1.png"
-          width="auto"
-          style="margin-left: 10px"
-          height="60"
-          alt=""
-        />
-      </a>
-      <!-- <a href="https://leafyisland.com/">
+    <section class="wrapper" id="wrapper" style="overflow: hidden">
+      <div class="start-container">
+        <p class="start-heading">Ready to find your perfect plant match?</p>
+        <p class="start-thumb" style="color: #747474">Green thumb loading</p>
+        <div class="start-button-section">
+          <button class="start-button" id="start-button">Begin!</button>
+          <p class="start-press">press <b>Enter ↩</b></p>
+        </div>
+        <p class="start-min" style="margin-top: 7px">⌚ Takes 1 min</p>
+      </div>
+      <div>
+        <div
+          id="mobile-begin"
+          class="mobile-begin"
+          style="
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 90px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: rgba(204, 204, 204, 0.5);
+            width: 100%;
+          "
+        >
+          <div class="start-button-section">
+            <button class="start-button" style="max-width: 330px; width: 330px" onclick="animation_disappear()">
+              Begin!
+            </button>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="starting-quiz" id="starting-quiz">
+      <nav
+        class="
+          navbar navbar-expand-lg navbar-light
+          fixed-top
+          border border-top-0 border-left-0 border-right-0
+        "
+        id="navbar"
+        style="background: white; padding: 0px"
+      >
+        <a class="navbar-brand" href="https://leafyisland.com/">
+          <img
+            src="./img/logo_1.png"
+            width="auto"
+            style="margin-left: 10px"
+            height="60"
+            alt=""
+          />
+        </a>
+        <!-- <a href="https://leafyisland.com/">
         <button
           type="button"
           id="cross"
@@ -54,138 +88,141 @@
           aria-label="Close"
         ></button
       ></a> -->
-      <div
-        class="navbar-collapse collapse justify-content-end"
-        style="margin-right: 40px"
-        id="navbar"
-      >
-        <ul class="navbar-nav">
-          <li class="nav-item">
-            <a
-              href="https://leafyisland.com/collections/all-plants"
-              class="nav-link"
-              >Plants</a
-            >
-          </li>
-          <li class="nav-item">
-            <a
-              href="https://leafyisland.com/collections/all-pots"
-              class="nav-link"
-              >Pot</a
-            >
-          </li>
-          <li class="nav-item">
-            <a
-              href="https://leafyisland.com/collections/plants-for-gifting-purpose"
-              class="nav-link"
-              >Gifts</a
-            >
-          </li>
-          <li class="nav-item">
-            <a
-              href="https://leafyisland.com/collections/soil-fertilizer"
-              class="nav-link"
-              >Soil and Fertilizers</a
-            >
-          </li>
-          <li class="nav-item">
-            <a
-              href="https://leafyisland.com/products/plant-care-1-month"
-              class="nav-link"
-              >PlantCare</a
-            >
-          </li>
-          <li class="nav-item">
-            <a href="https://leafyisland.com/blogs/plant-care" class="nav-link"
-              >Leafy Library</a
-            >
-          </li>
-          <li class="nav-item">
-            <a href="https://leafyisland.com/pages/offers" class="nav-link"
-              >Offers</a
-            >
-          </li>
-        </ul>
-      </div>
-    </nav>
+        <div
+          class="navbar-collapse collapse justify-content-end"
+          style="margin-right: 40px"
+          id="navbar"
+        >
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a
+                href="https://leafyisland.com/collections/all-plants"
+                class="nav-link"
+                >Plants</a
+              >
+            </li>
+            <li class="nav-item">
+              <a
+                href="https://leafyisland.com/collections/all-pots"
+                class="nav-link"
+                >Pot</a
+              >
+            </li>
+            <li class="nav-item">
+              <a
+                href="https://leafyisland.com/collections/plants-for-gifting-purpose"
+                class="nav-link"
+                >Gifts</a
+              >
+            </li>
+            <li class="nav-item">
+              <a
+                href="https://leafyisland.com/collections/soil-fertilizer"
+                class="nav-link"
+                >Soil and Fertilizers</a
+              >
+            </li>
+            <li class="nav-item">
+              <a
+                href="https://leafyisland.com/products/plant-care-1-month"
+                class="nav-link"
+                >PlantCare</a
+              >
+            </li>
+            <li class="nav-item">
+              <a
+                href="https://leafyisland.com/blogs/plant-care"
+                class="nav-link"
+                >Leafy Library</a
+              >
+            </li>
+            <li class="nav-item">
+              <a href="https://leafyisland.com/pages/offers" class="nav-link"
+                >Offers</a
+              >
+            </li>
+          </ul>
+        </div>
+      </nav>
 
-    <div class="row g-0" id="row">
-      <div class="col-12 col-md-6 order-md-last second-section">
-        <img id="myimg" src="" alt="" />
-      </div>
-      <div class="col-12 col-md-6 order-md-first first-section">
-        <div class="white-background" id="white-background">
-          <h3 class="question slide-right" id="h1"></h3>
-          <div id="root" class="d-grid gap-2 col-12 col-sm-6 mx-auto"></div>
+      <div class="row g-0" id="row">
+        <div class="col-12 col-md-6 order-md-last second-section">
+          <img id="myimg" src="" alt="" />
+        </div>
+        <div class="col-12 col-md-6 order-md-first first-section">
+          <div class="white-background" id="white-background">
+            <h3 class="question slide-right" id="h1"></h3>
+            <div id="root" class="d-grid gap-2 col-12 col-sm-6 mx-auto"></div>
+          </div>
         </div>
       </div>
-    </div>
 
-    <style type="text/css">
-      .body {
-        background-image: url("https://images.unsplash.com/photo-1592150621744-aca64f48394a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=768&q=80");
-        background-position: center;
-        background-size: cover;
-        background-attachment: fixed;
-        text-align: center;
-        position: absolute;
-        top: 0;
-        bottom: 0;
-        left: 0;
-        right: 0;
-      }
-
-      .content {
-        background: rgba(255, 255, 255, 0.815);
-        width: 50%;
-        padding: 40px;
-        margin: 100px auto;
-        font-family: calibri, sans-serif;
-        border-radius: 10px;
-      }
-
-      @media only screen and (max-width: 700px) {
-        .content {
-          height: 100vh;
-          background: rgba(255, 255, 255, 0.829);
-          padding: 100px 0 0;
-          font-family: calibri, sans-serif;
-          margin: 0;
-          width: 100%;
-          border-radius: 0;
+      <style type="text/css">
+        .body {
+          background-image: url("https://images.unsplash.com/photo-1592150621744-aca64f48394a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=768&q=80");
+          background-position: center;
+          background-size: cover;
+          background-attachment: fixed;
+          text-align: center;
+          position: absolute;
+          top: 0;
+          bottom: 0;
+          left: 0;
+          right: 0;
         }
-      }
-    </style>
 
-    <div
-      class="body"
-      id="secondpage"
-      style="display: flex; justify-content: center; align-items: center"
-    >
-      <div class="content">
-        <div class="row">
-          <div class="col-10 col-sm-8 mx-auto form-group">
-            <h3 style="text-align: left">READY TO MEET YOUR PERFECT PLANT?</h3>
-            <p style="text-align: start">
-              We have curated a list of 5 plants that are best suited for you.
-              Our botanist will send this to you on your Whatsapp.
-            </p>
-            <div style="display: flex;">
-              <div class="input-group mb-3">
-                <span class="input-group-text" id="basic-addon1">+91</span>
-                <input
-                  type="tel"
-                  name="phone"
-                  maxlength="10"
-                  class="form-control"
-                  id="exampleInputEmail1"
-                  aria-describedby="basic-addon1"
-                  placeholder="Enter your Whatsapp Number"
-                />
-                
-              </div>
-              <button
-                  style="margin-left: 10px; margin-bottom: 1rem;"
+        .content {
+          background: rgba(255, 255, 255, 0.815);
+          width: 50%;
+          padding: 40px;
+          margin: 100px auto;
+          font-family: calibri, sans-serif;
+          border-radius: 10px;
+        }
+
+        @media only screen and (max-width: 700px) {
+          .content {
+            height: 100vh;
+            background: rgba(255, 255, 255, 0.829);
+            padding: 100px 0 0;
+            font-family: calibri, sans-serif;
+            margin: 0;
+            width: 100%;
+            border-radius: 0;
+          }
+        }
+      </style>
+
+      <div
+        class="body"
+        id="secondpage"
+        style="display: flex; justify-content: center; align-items: center"
+      >
+        <div class="content">
+          <div class="row">
+            <div class="col-10 col-sm-8 mx-auto form-group">
+              <h3 style="text-align: left">
+                READY TO MEET YOUR PERFECT PLANT?
+              </h3>
+              <p style="text-align: start">
+                We have curated a list of 5 plants that are best suited for you.
+                Our botanist will send this to you on your Whatsapp.
+              </p>
+              <div style="display: flex">
+                <div class="input-group mb-3">
+                  <span class="input-group-text" id="basic-addon1">+91</span>
+                  <input
+                    type="tel"
+                    name="phone"
+                    maxlength="10"
+                    class="form-control"
+                    id="exampleInputEmail1"
+                    aria-describedby="basic-addon1"
+                    placeholder="Enter your Whatsapp Number"
+                  />
+                </div>
+                <button
+                  style="margin-left: 10px; margin-bottom: 1rem"
                   type="button"
                   class="btn btn-dark submitButton"
                   id="submitButton"
@@ -195,146 +232,150 @@
                 >
                   SUBMIT
                 </button>
-            </div>
-           
-            <small id="emailHelp" class="form-text text-muted"
-              >We pinky promise to never spam your number!
-            </small>
-            <div class="w-100"></div>
-            <div class="d-grid gap-2 col-10 col-sm-6 mx-auto mt-4">
-              <a href="https://leafyisland.com/" class="btn btn-light" style="margin-top: 20px">
-                Take me back to Leafy Island
-              </a>
+              </div>
+
+              <small id="emailHelp" class="form-text text-muted"
+                >We pinky promise to never spam your number!
+              </small>
+              <div class="w-100"></div>
+              <div class="d-grid gap-2 col-10 col-sm-6 mx-auto mt-4">
+                <a
+                  href="https://leafyisland.com/"
+                  class="btn btn-light"
+                  style="margin-top: 20px"
+                >
+                  Take me back to Leafy Island
+                </a>
+              </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
 
-    <!-- Modal section -->
-    <div
-      class="modal fade"
-      id="exampleModal"
-      tabindex="-1"
-      aria-labelledby="exampleModalLabel"
-      aria-hidden="true"
-    >
-      <div class="modal-dialog modal-xl modal-fullscreen-sm-down">
-        <div class="modal-content">
-          <div class="modal-header modal_header">
-            <h5 class="modal-title" id="exampleModalLabel">
-              Top 5 Plants Recommeded By Our Plant Experts
-            </h5>
-            <a
-              class="navbar-brand"
-              href="https://leafyisland.com/"
-              id="logo-modal"
-            >
-              <img
-                src="./img/logo_1.png"
-                width="auto"
-                style="margin-left: 10px"
-                height="60"
-                alt=""
-              />
-            </a>
-            <button
-              type="button"
-              class="btn-close"
-              data-bs-dismiss="modal"
-              aria-label="Close"
-            ></button>
-          </div>
-          <div class="modal-body">
-            <div class="card-group">
-              <p id="scroll-down" style="text-align: center">
-                Thanks for using the plant recommender by Leafy Island. We have
-                sent you the list of curated plants on the WhatsApp number
-                shared by you. <br />
-                You can also scroll down the page to check the suggested plants
-                based on your input
-              </p>
-              <div class="card">
+      <!-- Modal section -->
+      <div
+        class="modal fade"
+        id="exampleModal"
+        tabindex="-1"
+        aria-labelledby="exampleModalLabel"
+        aria-hidden="true"
+      >
+        <div class="modal-dialog modal-xl modal-fullscreen-sm-down">
+          <div class="modal-content">
+            <div class="modal-header modal_header">
+              <h5 class="modal-title" id="exampleModalLabel">
+                Top 5 Plants Recommeded By Our Plant Experts
+              </h5>
+              <a
+                class="navbar-brand"
+                href="https://leafyisland.com/"
+                id="logo-modal"
+              >
                 <img
-                  id="modalimg-1"
-                  src="https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set20_Page_17_1024x1024@2x.jpg?v=1612899817"
-                  class="card-img-top"
-                  alt="..."
+                  src="./img/logo_1.png"
+                  width="auto"
+                  style="margin-left: 10px"
+                  height="60"
+                  alt=""
                 />
-                <div class="card-body">
-                  <h5 class="card-title" id="card-title-1">Card title</h5>
-                  <a
-                    href=""
-                    id="shopify-link-1"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    class="btn btn-dark btn-sm shop-now-btn"
-                    >Shop now</a
-                  >
+              </a>
+              <button
+                type="button"
+                class="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div class="modal-body">
+              <div class="card-group">
+                <p id="scroll-down" style="text-align: center">
+                  Thanks for using the plant recommender by Leafy Island. We
+                  have sent you the list of curated plants on the WhatsApp
+                  number shared by you. <br />
+                  You can also scroll down the page to check the suggested
+                  plants based on your input
+                </p>
+                <div class="card">
+                  <img
+                    id="modalimg-1"
+                    src="https://cdn.shopify.com/s/files/1/0400/1090/7804/products/set20_Page_17_1024x1024@2x.jpg?v=1612899817"
+                    class="card-img-top"
+                    alt="..."
+                  />
+                  <div class="card-body">
+                    <h5 class="card-title" id="card-title-1">Card title</h5>
+                    <a
+                      href=""
+                      id="shopify-link-1"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="btn btn-dark btn-sm shop-now-btn"
+                      >Shop now</a
+                    >
+                  </div>
                 </div>
-              </div>
-              <div class="card">
-                <img id="modalimg-2" src="" class="card-img-top" alt="..." />
-                <div class="card-body">
-                  <h5 class="card-title" id="card-title-2">Card title</h5>
-                  <a
-                    href=""
-                    id="shopify-link-2"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    class="btn btn-dark btn-sm shop-now-btn"
-                    >Shop now</a
-                  >
+                <div class="card">
+                  <img id="modalimg-2" src="" class="card-img-top" alt="..." />
+                  <div class="card-body">
+                    <h5 class="card-title" id="card-title-2">Card title</h5>
+                    <a
+                      href=""
+                      id="shopify-link-2"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="btn btn-dark btn-sm shop-now-btn"
+                      >Shop now</a
+                    >
+                  </div>
                 </div>
-              </div>
-              <div class="card">
-                <img id="modalimg-3" src="" class="card-img-top" alt="..." />
-                <div class="card-body">
-                  <h5 class="card-title" id="card-title-3">Card title</h5>
-                  <a
-                    href=""
-                    id="shopify-link-3"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    class="btn btn-dark btn-sm shop-now-btn"
-                    >Shop now</a
-                  >
+                <div class="card">
+                  <img id="modalimg-3" src="" class="card-img-top" alt="..." />
+                  <div class="card-body">
+                    <h5 class="card-title" id="card-title-3">Card title</h5>
+                    <a
+                      href=""
+                      id="shopify-link-3"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="btn btn-dark btn-sm shop-now-btn"
+                      >Shop now</a
+                    >
+                  </div>
                 </div>
-              </div>
-              <div class="card">
-                <img id="modalimg-4" src="" class="card-img-top" alt="..." />
-                <div class="card-body">
-                  <h5 class="card-title" id="card-title-4">Card title</h5>
-                  <a
-                    href=""
-                    id="shopify-link-4"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    class="btn btn-dark btn-sm shop-now-btn"
-                    >Shop now</a
-                  >
+                <div class="card">
+                  <img id="modalimg-4" src="" class="card-img-top" alt="..." />
+                  <div class="card-body">
+                    <h5 class="card-title" id="card-title-4">Card title</h5>
+                    <a
+                      href=""
+                      id="shopify-link-4"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="btn btn-dark btn-sm shop-now-btn"
+                      >Shop now</a
+                    >
+                  </div>
                 </div>
-              </div>
-              <div class="card">
-                <img id="modalimg-5" src="" class="card-img-top" alt="..." />
-                <div class="card-body">
-                  <h5 class="card-title" id="card-title-5">Card title</h5>
-                  <a
-                    href=""
-                    id="shopify-link-5"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    class="btn btn-dark btn-sm shop-now-btn"
-                    >Shop now</a
-                  >
+                <div class="card">
+                  <img id="modalimg-5" src="" class="card-img-top" alt="..." />
+                  <div class="card-body">
+                    <h5 class="card-title" id="card-title-5">Card title</h5>
+                    <a
+                      href=""
+                      id="shopify-link-5"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="btn btn-dark btn-sm shop-now-btn"
+                      >Shop now</a
+                    >
+                  </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
-
+    </section>
     <script src="./index.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.min.js"></script>
     <script

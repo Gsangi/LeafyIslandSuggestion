@@ -11123,3 +11123,15 @@ input.addEventListener('keyup', () => {
  if(input.value.length > 9) btnshow.disabled = false
  else btnshow.disabled = true
 })
+
+let startButton = document.getElementById("start-button")
+document.getElementById('starting-quiz').style.display = 'none'
+document.getElementById('wrapper').style.display = 'flex'
+
+const animation_disappear = () => {
+    document.getElementById('wrapper').style.display = 'none'
+    document.getElementById('starting-quiz').style.display = 'block'
+}
+
+
+startButton.addEventListener('click', animation_disappear)
